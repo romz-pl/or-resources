@@ -3,17 +3,20 @@
 ## 2021
 + **Integer Programming.** Wolsey L.A., _2nd edition_
 
+## 2020
++ **Location Science.** Laporte G., Nickel S., da Gama F.S., _2nd edition_
+
 
 ## 2019
 + **Network Flow Algorithms.** Williamson D.P., _1st edition_
 
 
 ## 2018
-+ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 6th edition
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., _6th edition_
 
 
 ## 2015
-+ **Location Science.** Laporte G., Nickel S., da Gama F.S. 
++ **Location Science.** Laporte G., Nickel S., da Gama F.S., _1st edition_
 
 
 ## 2014

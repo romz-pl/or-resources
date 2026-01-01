@@ -24,6 +24,10 @@
 + **Optimization Over Integers.** Bertsimas, D., Weismantel, R.
 
 
+## 2004
++ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D.
+
+
 ## 1997
 + **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A.
 

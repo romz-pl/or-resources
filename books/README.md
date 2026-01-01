@@ -1,7 +1,12 @@
 # List of books in chronological order
 
+## 2023
++ **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E.
+
+
 ## 2021
 + **Integer Programming.** Wolsey L.A., _2nd edition_
+
 
 ## 2020
 + **Location Science.** Laporte G., Nickel S., da Gama F.S., _2nd edition_
@@ -16,16 +21,16 @@
 
 
 ## 2015
-+ **Location Science.** Laporte G., Nickel S., da Gama F.S., _1st edition_
++ **Location Science.** Laporte G., Nickel S., da Gama F.S., _2st edition_
 
 
 ## 2014
-+ **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
-+ **The Vehicle Routing Problem.** Toth P., Vigo D.
++ **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G., _1st edition_
++ **The Vehicle Routing Problem.** Toth P., Vigo D., _1st edition_
 
 
 ## 2010
-+ **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D.
++ **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D., _1st edition_
 
 
 ## 2008
@@ -33,7 +38,7 @@
 
 
 ## 2007
-+ **The Traveling Salesman Problem: A Computational Study.** Applegate D.L., Bixby R.E., Chvátal V., Cook W.J.
++ **The Traveling Salesman Problem: A Computational Study.** Applegate D.L., Bixby R.E., Chvátal V., Cook W.J., _1st edition_
 
 
 ## 2006
@@ -51,6 +56,10 @@
 
 ## 2003
 + **Combinatorial Optimization: Polyhedra and Efficiency.** Schrijver A.
+
+
+## 2001
++ **Location Science.** Laporte G., Nickel S., da Gama F.S., _1st edition_
 
 
 ## 1999

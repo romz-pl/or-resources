@@ -8,6 +8,10 @@
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
 
 
+## 2008
++ **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E.
+
+
 ## 2007
 + **The Traveling Salesman Problem: A Computational Study.** Applegate D.L., Bixby R.E., Chvátal V., Cook W.J.
 

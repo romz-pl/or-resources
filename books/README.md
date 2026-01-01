@@ -41,10 +41,6 @@
 + **Large Scale Linear and Integer Optimization: A Unified Approach.** Martin R.K.
 
 
-## 1998
-+ **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K.
-
-
 ## 1997
 + **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A.
 
@@ -69,6 +65,10 @@
 
 ## 1983
 + **Linear Programming.** Chvátal V.
+
+
+## 1982
++ **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K.
 
 
 ## 1976

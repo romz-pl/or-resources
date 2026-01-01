@@ -13,6 +13,9 @@
 + **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_
 
+## 2022
++ **Introduction to Combinatorial Optimization**, Du D.-Z., Pardalos P.M., Hu X., Wu W., [1st edition](https://doi.org/10.1007/978-3-031-10596-8)
+
 
 ## 2021
 + **Integer Programming.** Wolsey L.A., [2nd edition_](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)

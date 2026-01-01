@@ -4,12 +4,13 @@
 ## Books
 
 ## Journals
-
-## Articles
+[List of journals](./journals/README.md)
 
 ## Software
 
 ## Problems
+
+## Articles
 
 ## Models
 

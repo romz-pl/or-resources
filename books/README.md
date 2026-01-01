@@ -15,6 +15,7 @@
 
 ## 2022
 + **Introduction to Combinatorial Optimization**, Du D.-Z., Pardalos P.M., Hu X., Wu W., [1st edition](https://doi.org/10.1007/978-3-031-10596-8)
++ **Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators.** Ryu E.K., Yin W., [1st edition](https://doi.org/10.1017/9781009160865)
 
 
 ## 2021

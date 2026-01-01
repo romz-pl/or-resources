@@ -37,7 +37,7 @@
 
 
 ## 2013
-+ **Introduction to Graph and Hypergraph Theory.** Voloshin V.I. 
++ **Introduction to Graph and Hypergraph Theory.** Voloshin V.I., _1st edition_
 
 
 ## 2010

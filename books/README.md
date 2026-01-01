@@ -67,6 +67,10 @@
 + **Integer and Combinatorial Optimization.** Nemhauser G.L., Wolsey L.A.
 
 
+## 1986
++ **Theory of Linear and Integer Programming.** Schrijver A.
+
+
 ## 1983
 + **Linear Programming.** Chvátal V.
 

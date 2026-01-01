@@ -1,7 +1,7 @@
 # List of books in chronological order
 
 ## 2021
-+ **Integer Programming.** Wolsey L.A., second edition
++ **Integer Programming.** Wolsey L.A., 2nd edition
 
 
 ## 2014
@@ -21,6 +21,7 @@
 
 
 ## 2005
++ **Combinatorial Optimization: Theory and Algorithms.**, Korte B., Vygen J., 3rd edition
 + **Optimization Over Integers.** Bertsimas, D., Weismantel, R.
 
 

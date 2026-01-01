@@ -37,6 +37,10 @@
 + **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D.
 
 
+## 1999
++ **Large Scale Linear and Integer Optimization: A Unified Approach.** Martin R.K.
+
+
 ## 1998
 + **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K.
 

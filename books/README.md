@@ -36,6 +36,10 @@
 ## 1976
 + **Graph Theory with Applications.** Bondy J.A., Murty U.S.R.
 
+
 ## 1973
 + **Graphs and Hypergraphs.** Berge C. 
 
+
+## 1963
++ **Linear Programming and Extensions.** Dantzig G.B.

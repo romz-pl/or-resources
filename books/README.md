@@ -10,11 +10,11 @@
 
 
 ## 2021
-+ **Integer Programming.** Wolsey L.A., _2nd edition_
-+ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., _5th edition_
++ **Integer Programming.** Wolsey L.A., _2nd edition_, [DOI](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)
 
 
 ## 2020
++ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., _5th edition_, [DOI](https://link.springer.com/book/10.1007/978-3-030-39415-8)
 + **Location Science.** Laporte G., Nickel S., da Gama F.S., _2nd edition_
 
 

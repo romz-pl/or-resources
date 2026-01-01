@@ -1,11 +1,11 @@
 # List of books in chronological order
 
 ## 2007
-+ **The Traveling Salesman Problem: A Computational Study.** Applegate, D.L., Bixby, R.E., Chvátal, V., and Cook, W.J.
++ **The Traveling Salesman Problem: A Computational Study.** Applegate, D.L., Bixby, R.E., Chvátal, V., Cook, W.J.
 
 
 ## 2005
-+ **Optimization Over Integers.** Bertsimas, D. and Weismantel, R.
++ **Optimization Over Integers.** Bertsimas, D., Weismantel, R.
 
 
 ## 1995
@@ -14,8 +14,11 @@
 
 
 ## 1993
-+ **Network Flows: Theory, Algorithms, and Applications.** Ahuja, R.K., Magnanti, T.L., and Orlin, J.B. 
++ **Network Flows: Theory, Algorithms, and Applications.** Ahuja, R.K., Magnanti, T.L., Orlin, J.B. 
 
+
+## 1976
++ **Graph Theory with Applications.** Bondy, J.A., Murty, U.S.R.
 
 ## 1973
 + **Graphs and Hypergraphs.** Berge, C. 

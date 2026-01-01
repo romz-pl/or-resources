@@ -4,6 +4,10 @@
 + **Integer Programming.** Wolsey L.A., 2nd edition
 
 
+## 2019
++ **Network Flow Algorithms.** Williamson D.P.
+
+
 ## 2018
 + **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 6th edition
 

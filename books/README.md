@@ -15,6 +15,7 @@
 
 ## 2021
 + **Integer Programming.** Wolsey L.A., [2nd edition_](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)
++ **Linear and Convex Optimization: A Mathematical Approach.** Veatch M.H., [1st edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119664079)
 
 
 ## 2020

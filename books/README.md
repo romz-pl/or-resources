@@ -14,6 +14,7 @@
 
 ## 2014
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
++ **The Vehicle Routing Problem.** Toth P., Vigo D.
 
 
 ## 2010

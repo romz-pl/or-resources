@@ -1,5 +1,9 @@
 # List of books in chronological order
 
+## 2021
++ **Integer Programming.** Wolsey L.A., second edition
+
+
 ## 2014
 + **Integer Programming.** Conforti, M., Cornuéjols, G., Zambelli, G.
 

@@ -22,6 +22,7 @@
 + **Introduction to Combinatorial Optimization**, Du D.-Z., Pardalos P.M., Hu X., Wu W., [1st edition](https://doi.org/10.1007/978-3-031-10596-8)
 + **Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators.** Ryu E.K., Yin W., [1st edition](https://doi.org/10.1017/9781009160865)
 + **Operations Research: A Model-Based Approach.** Eiselt H.A., Sandblom C.-L., [3rd edition](https://doi.org/10.1007/978-3-030-97162-5)
++ **Scheduling Theory, Algorithms, and Systems.** Pinedo M.L., [6th edition](https://doi.org/10.1007/978-3-031-05921-6)
 
 
 ## 2021

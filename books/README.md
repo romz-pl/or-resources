@@ -45,6 +45,10 @@
 + **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., [6th edition](https://link.springer.com/book/10.1007/978-3-662-56039-6)
 
 
+## 2017
++ **Operations Research: A Practical Introduction.** Carter M., Price C.C., Rabadi G., [2nd edition](https://www.routledge.com/Operations-Research-A-Practical-Introduction/Carter-Price-Rabadi/p/book/9781032476063?srsltid=AfmBOorO32BkdDYSfB-F_ajzqlYZXw6ZOa92letf-j8U-PI_0BxZeu6x)
+
+
 ## 2015
 + **Location Science.** Laporte G., Nickel S., da Gama F.S., _2st edition_
 

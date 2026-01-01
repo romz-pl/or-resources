@@ -8,6 +8,10 @@
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
 
 
+## 2010
++ **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D.
+
+
 ## 2008
 + **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E.
 

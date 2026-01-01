@@ -41,6 +41,10 @@
 + **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D.
 
 
+## 2003
++ **Combinatorial Optimization: Polyhedra and Efficiency.** Schrijver A.
+
+
 ## 1999
 + **Large Scale Linear and Integer Optimization: A Unified Approach.** Martin R.K.
 

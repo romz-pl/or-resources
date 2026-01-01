@@ -79,6 +79,7 @@
 
 ## 2003
 + **Combinatorial Optimization: Polyhedra and Efficiency.** Schrijver A., _1st edition_
++ **Constraint Processing.** Dechter R., [1st edition](https://doi.org/10.1016/B978-1-55860-890-0.X5000-2)
 + **Convex Polytopes.** Grünbaum B., [2nd edition](https://doi.org/10.1007/978-1-4613-0019-9)
 
 

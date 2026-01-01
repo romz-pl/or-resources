@@ -8,6 +8,10 @@
 + **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 6th edition
 
 
+## 2015
++ **Location Science.** Laporte G., Nickel S., da Gama F.S. 
+
+
 ## 2014
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
 

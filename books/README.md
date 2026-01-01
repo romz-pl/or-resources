@@ -16,10 +16,6 @@
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
 
 
-## 2011
-+ **Combinatorial Optimization: Networks and Matroids.**  Lawler E.
-
-
 ## 2010
 + **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D.
 
@@ -64,7 +60,7 @@
 
 ## 1976
 + **Graph Theory with Applications.** Bondy J.A., Murty U.S.R.
-
++ **Combinatorial Optimization: Networks and Matroids.**  Lawler E.
 
 ## 1973
 + **Graphs and Hypergraphs.** Berge C. 

@@ -45,6 +45,10 @@
 + **Linear Programming: Methods and Applications** Gass S.I., _5th edition_
 
 
+## 2009
++ **Assignment Problems** Burkard R., Dell’Amico M., Martello S., _1st edition_, [DOI](https://doi.org/10.1137/1.9781611972238)
+
+
 ## 2008
 + **An Introduction to Linear Programming and Game Theory** Thie P.R., Keough G.E., _3rd edition_
 + **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E., _1st edition_
@@ -64,7 +68,7 @@
 
 
 ## 2004
-+ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D., _1st edition_
++ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D., _1st edition_, [DOI](https://doi.org/10.1007/978-3-540-24777-7)
 
 
 ## 2003

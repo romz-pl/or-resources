@@ -24,7 +24,7 @@
 
 
 ## 2018
-+ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., _6th edition_
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., _6th edition_, [DOI](https://link.springer.com/book/10.1007/978-3-662-56039-6)
 
 
 ## 2015

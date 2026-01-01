@@ -28,6 +28,10 @@
 + **The Traveling Salesman Problem: A Computational Study.** Applegate D.L., Bixby R.E., Chvátal V., Cook W.J.
 
 
+## 2006
++ **Production Planning by Mixed Integer Programming.** Pochet Y., Wolsey L.A.
+
+
 ## 2005
 + **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 3rd edition
 + **Optimization Over Integers.** Bertsimas, D., Weismantel, R.

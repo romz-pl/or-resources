@@ -54,6 +54,10 @@
 + **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A.
 
 
+## 1996
++ **Linear Programming: Foundations and Extensions.** Vanderbei R.J.
+
+
 ## 1995
 + **Network Models, Handbooks in Operations Research and Management Science, vol. 7.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L.
 + **Network Models, Handbooks in Operations Research and Management Science, vol. 8.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L.

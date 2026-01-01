@@ -20,12 +20,14 @@
 ## 2022
 + **Introduction to Combinatorial Optimization**, Du D.-Z., Pardalos P.M., Hu X., Wu W., [1st edition](https://doi.org/10.1007/978-3-031-10596-8)
 + **Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators.** Ryu E.K., Yin W., [1st edition](https://doi.org/10.1017/9781009160865)
++ **Operations Research: A Model-Based Approach.** Eiselt H.A., Sandblom C.-L., [3rd edition](https://doi.org/10.1007/978-3-030-97162-5)
 
 
 ## 2021
 + **Integer Programming.** Wolsey L.A., [2nd edition_](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)
 + **Linear and Convex Optimization: A Mathematical Approach.** Veatch M.H., [1st edition](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119664079)
 + **Linear and Nonlinear Programming.** Luenberger D.G., Ye Y., [5th edition](https://doi.org/10.1007/978-3-030-85450-8)
++ **Modelling in Mathematical Programming: Methodology and Techniques.**, José Manuel García Sánchez, [1st edition](https://doi.org/10.1007/978-3-030-57250-1)
 
 
 ## 2020

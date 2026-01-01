@@ -55,6 +55,7 @@
 
 ## 2013
 + **Introduction to Graph and Hypergraph Theory.** Voloshin V.I., _1st edition_
++ **Model Building in Mathematical Programming.** Williams H.P., [5th Edition](https://www.wiley.com/en-dk/Model+Building+in+Mathematical+Programming%2C+5th+Edition-p-9781118443330)
 
 
 ## 2012

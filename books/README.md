@@ -4,8 +4,16 @@
 + **Integer Programming.** Wolsey L.A., 2nd edition
 
 
+## 2018
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 6th edition
+
+
 ## 2014
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G.
+
+
+## 2011
++ **Combinatorial Optimization: Networks and Matroids.**  Lawler E.
 
 
 ## 2010
@@ -21,12 +29,16 @@
 
 
 ## 2005
-+ **Combinatorial Optimization: Theory and Algorithms.**, Korte B., Vygen J., 3rd edition
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 3rd edition
 + **Optimization Over Integers.** Bertsimas, D., Weismantel, R.
 
 
 ## 2004
 + **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D.
+
+
+## 1998
++ **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K.
 
 
 ## 1997

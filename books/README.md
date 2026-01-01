@@ -40,6 +40,7 @@
 
 
 ## 2008
++ **An Introduction to Linear Programming and Game Theory** Thie P.R., Keough G.E., _3rd edition_
 + **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E., _1st edition_
 
 

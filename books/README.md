@@ -8,6 +8,7 @@
 + **A First Course in Linear Optimization.** Lee J., [4th edition](https://github.com/jon77lee/JLee_LinearOptimizationBook)
 + **Branch-and-Price.** Desrosiers J., Lübbecke M., Desaulniers G., Gauthier J.B., [1st edition](https://www.gerad.ca/en/papers/G-2024-36)
 + **Combinatorial and Algorithmic Mathematics From Foundation to Optimization.** Alzalg B., [1st edition](https://www.wiley.com/en-it/Combinatorial+and+Algorithmic+Mathematics%3A+From+Foundation+to+Optimization-p-9781394235940)
++ **Introduction to Operations Research.** Hillier F., Lieberman G., [2024 release](https://www.mheducation.com/highered/product/Introduction-to-Operations-Research-Hillier.html?viewOption=student)
 
 
 ## 2023

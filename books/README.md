@@ -5,6 +5,7 @@
 
 
 ## 2023
++ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_
 + **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_
 
@@ -33,6 +34,10 @@
 ## 2014
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G., _1st edition_
 + **The Vehicle Routing Problem.** Toth P., Vigo D., _1st edition_
+
+
+## 2013
++ **Introduction to Graph and Hypergraph Theory.** Voloshin V.I. 
 
 
 ## 2010
@@ -110,15 +115,15 @@
 
 
 ## 1982
-+ **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K.
++ **Combinatorial Optimization: Algorithms and Complexity.** Papadimitriou Ch.H., Steiglitz K., _1st edition_
 
 
 ## 1976
-+ **Graph Theory with Applications.** Bondy J.A., Murty U.S.R.
-+ **Combinatorial Optimization: Networks and Matroids.**  Lawler E.
++ **Graph Theory with Applications.** Bondy J.A., Murty U.S.R., _1st edition_
++ **Combinatorial Optimization: Networks and Matroids.**  Lawler E., _1st edition_
 
 ## 1973
-+ **Graphs and Hypergraphs.** Berge C. 
++ **Graphs and Hypergraphs.** Berge C., _1st edition_
 
 
 ## 1963

@@ -81,6 +81,7 @@
 
 
 ## 2007
++ **Scheduling Algorithms.** Brucker P., [5th edition](https://doi.org/10.1007/978-3-540-69516-5)
 + **The Traveling Salesman Problem: A Computational Study.** Applegate D.L., Bixby R.E., Chvátal V., Cook W.J., _1st edition_
 
 

@@ -19,7 +19,7 @@
 
 
 ## 2019
-+ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_
++ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_, [DOI](https://www.taylorfrancis.com/books/mono/10.1201/9780429425134/graph-theory-applications-jonathan-gross-jay-yellen-mark-anderson)
 + **Network Flow Algorithms.** Williamson D.P., _1st edition_
 
 

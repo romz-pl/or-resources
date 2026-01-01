@@ -50,13 +50,13 @@
 + **Introduction to Graph and Hypergraph Theory.** Voloshin V.I., _1st edition_
 
 
+## 2012
++ **Assignment Problems: Revised Reprint** Burkard R., Dell’Amico M., Martello S., [1st edition](https://doi.org/10.1137/1.9781611972238)
+
+
 ## 2010
 + **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D., _1st edition_
 + **Linear Programming: Methods and Applications** Gass S.I., _5th edition_
-
-
-## 2009
-+ **Assignment Problems** Burkard R., Dell’Amico M., Martello S., [1st edition](https://doi.org/10.1137/1.9781611972238)
 
 
 ## 2008

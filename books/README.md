@@ -5,7 +5,6 @@
 
 
 ## 2023
-+ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_
 + **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_
 
@@ -20,6 +19,7 @@
 
 
 ## 2019
++ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_
 + **Network Flow Algorithms.** Williamson D.P., _1st edition_
 
 

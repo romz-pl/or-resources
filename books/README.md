@@ -63,6 +63,10 @@
 + **Knapsack Problems: Algorithms and Computer Implementations.** Martello S., Toth, P.
 
 
+## 1988
++ **Integer and Combinatorial Optimization.** Nemhauser G.L., Wolsey L.A.
+
+
 ## 1983
 + **Linear Programming.** Chvátal V.
 

@@ -2,9 +2,10 @@
 
 
 ## Books
+[List of books in chronological order](./journals/README.md)
 
 ## Journals
-[List of journals](./journals/README.md)
+[List of journals in alphabetical order](./journals/README.md)
 
 ## Software
 

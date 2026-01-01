@@ -59,6 +59,7 @@
 
 
 ## 1990
++ **Discrete Location Theory.** Mirchandani P.B., Francis R.L. 
 + **Knapsack Problems: Algorithms and Computer Implementations.** Martello S., Toth, P.
 
 

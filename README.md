@@ -2,7 +2,7 @@
 
 
 ## Books
-[List of books in chronological order](./journals/README.md)
+[List of books in chronological order](./books/README.md)
 
 ## Journals
 [List of journals in alphabetical order](./journals/README.md)

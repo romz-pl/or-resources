@@ -1,11 +1,11 @@
 # List of books in chronological order
 
 ## 2021
-+ **Integer Programming.** Wolsey L.A., 2nd edition
++ **Integer Programming.** Wolsey L.A., _2nd edition_
 
 
 ## 2019
-+ **Network Flow Algorithms.** Williamson D.P.
++ **Network Flow Algorithms.** Williamson D.P., _1st edition_
 
 
 ## 2018

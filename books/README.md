@@ -1,6 +1,7 @@
 # List of books in chronological order
 
 ## 2023
++ **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D. 
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E.
 
 
@@ -77,21 +78,21 @@
 
 
 ## 1995
-+ **Network Models, Handbooks in Operations Research and Management Science, vol. 7.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L.
-+ **Network Models, Handbooks in Operations Research and Management Science, vol. 8.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L.
++ **Network Models, Handbooks in Operations Research and Management Science, vol. 7.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L., _1st edition_
++ **Network Models, Handbooks in Operations Research and Management Science, vol. 8.** Ball M.O., Magnanti T.L., Monma C.L., Nemhauser G.L., _1st edition_
 
 
 ## 1993
-+ **Network Flows: Theory, Algorithms, and Applications.** Ahuja R.K., Magnanti T.L., Orlin J.B.
++ **Network Flows: Theory, Algorithms, and Applications.** Ahuja R.K., Magnanti T.L., Orlin J.B., _1st edition_
 
 
 ## 1990
-+ **Discrete Location Theory.** Mirchandani P.B., Francis R.L. 
-+ **Knapsack Problems: Algorithms and Computer Implementations.** Martello S., Toth, P.
++ **Discrete Location Theory.** Mirchandani P.B., Francis R.L., _1st edition_
++ **Knapsack Problems: Algorithms and Computer Implementations.** Martello S., Toth, P., _1st edition_
 
 
 ## 1988
-+ **Integer and Combinatorial Optimization.** Nemhauser G.L., Wolsey L.A.
++ **Integer and Combinatorial Optimization.** Nemhauser G.L., Wolsey L.A., _1st edition_
 
 
 ## 1986

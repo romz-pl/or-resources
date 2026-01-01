@@ -51,7 +51,11 @@
 
 
 ## 1993
-+ **Network Flows: Theory, Algorithms, and Applications.** Ahuja R.K., Magnanti T.L., Orlin J.B. 
++ **Network Flows: Theory, Algorithms, and Applications.** Ahuja R.K., Magnanti T.L., Orlin J.B.
+
+
+## 1990
++ **Knapsack Problems: Algorithms and Computer Implementations.** Martello S., Toth, P.
 
 
 ## 1983

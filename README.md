@@ -1,1 +1,18 @@
-# Books, journals, articles, software, problems, models, libraries, and benchmarks devoted to operations research.
+# Resources devoted to operations research.
+
+
+## Books
+
+## Journals
+
+## Articles
+
+## Software
+
+## Problems
+
+## Models
+
+## Libraries
+
+## Benchmarks

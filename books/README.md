@@ -127,9 +127,9 @@
 
 
 ## 1963
-+ **Linear Programming and Extensions.** Dantzig G.B.
++ **Linear Programming and Extensions.** Dantzig G.B., _1st edition_
 
 
 ## 1962
-+ **Flows in Networks.** Ford L.R. Jr., Fulkerson D.R.
++ **Flows in Networks.** Ford L.R. Jr., Fulkerson D.R., _1st edition_
  

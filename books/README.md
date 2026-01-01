@@ -10,21 +10,21 @@
 
 
 ## 2021
-+ **Integer Programming.** Wolsey L.A., _2nd edition_, [DOI](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)
++ **Integer Programming.** Wolsey L.A., [2nd edition_](https://www.wiley.com/en-us/Integer+Programming%2C+2nd+Edition-p-9781119606536)
 
 
 ## 2020
-+ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., _5th edition_, [DOI](https://link.springer.com/book/10.1007/978-3-030-39415-8)
++ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., [5th edition](https://link.springer.com/book/10.1007/978-3-030-39415-8)
 + **Location Science.** Laporte G., Nickel S., da Gama F.S., _2nd edition_
 
 
 ## 2019
-+ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., _3rd edition_, [DOI](https://www.taylorfrancis.com/books/mono/10.1201/9780429425134/graph-theory-applications-jonathan-gross-jay-yellen-mark-anderson)
++ **Graph Theory and Its Applications.**  Gross J.L., Yellen J., Anderson M., [3rd edition](https://www.taylorfrancis.com/books/mono/10.1201/9780429425134/graph-theory-applications-jonathan-gross-jay-yellen-mark-anderson)
 + **Network Flow Algorithms.** Williamson D.P., _1st edition_
 
 
 ## 2018
-+ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., _6th edition_, [DOI](https://link.springer.com/book/10.1007/978-3-662-56039-6)
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., [6th edition](https://link.springer.com/book/10.1007/978-3-662-56039-6)
 
 
 ## 2015
@@ -46,7 +46,7 @@
 
 
 ## 2009
-+ **Assignment Problems** Burkard R., Dell’Amico M., Martello S., _1st edition_, [DOI](https://doi.org/10.1137/1.9781611972238)
++ **Assignment Problems** Burkard R., Dell’Amico M., Martello S., [1st edition](https://doi.org/10.1137/1.9781611972238)
 
 
 ## 2008
@@ -68,7 +68,7 @@
 
 
 ## 2004
-+ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D., _1st edition_, [DOI](https://doi.org/10.1007/978-3-540-24777-7)
++ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D., [1st edition](https://doi.org/10.1007/978-3-540-24777-7)
 
 
 ## 2003

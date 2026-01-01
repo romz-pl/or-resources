@@ -6,6 +6,7 @@
 
 ## 2024
 + **A First Course in Linear Optimization.** Lee J., [4th edition](https://github.com/jon77lee/JLee_LinearOptimizationBook)
++ **Branch-and-Price.** Desrosiers J., Lübbecke M., Desaulniers G., Gauthier J.B., [1st edition](https://www.gerad.ca/en/papers/G-2024-36)
 
 
 ## 2023

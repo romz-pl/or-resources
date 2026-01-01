@@ -13,4 +13,6 @@
 + **Network Flows: Theory, Algorithms, and Applications**. Ahuja, R.K., Magnanti, T.L., and Orlin, J.B. 
 
 
+## 1973
++ **Graphs and Hypergraphs**. Berge, C. 
 

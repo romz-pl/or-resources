@@ -37,6 +37,7 @@
 
 ## 2010
 + **50 Years of Integer Programming 1958-2008.** Junger M., Liebling T., Naddef D., _1st edition_
++ **Linear Programming: Methods and Applications** Gass S.I., _5th edition_
 
 
 ## 2008
@@ -105,7 +106,7 @@
 
 
 ## 1983
-+ **Linear Programming.** Chvátal V.
++ **Linear Programming.** Chvátal V., _1st edition_
 
 
 ## 1982

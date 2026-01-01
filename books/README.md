@@ -6,6 +6,7 @@
 
 ## 2021
 + **Integer Programming.** Wolsey L.A., _2nd edition_
++ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., _5th edition_
 
 
 ## 2020
@@ -34,7 +35,7 @@
 
 
 ## 2008
-+ **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E.
++ **The Vehicle Routing Problem.** Golden B., Raghavan S., Wasil, E., _1st edition_
 
 
 ## 2007
@@ -42,20 +43,20 @@
 
 
 ## 2006
-+ **Production Planning by Mixed Integer Programming.** Pochet Y., Wolsey L.A.
++ **Production Planning by Mixed Integer Programming.** Pochet Y., Wolsey L.A., _1st edition_
 
 
 ## 2005
-+ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., 3rd edition
-+ **Optimization Over Integers.** Bertsimas, D., Weismantel, R.
++ **Combinatorial Optimization: Theory and Algorithms.** Korte B., Vygen J., _3rd edition_
++ **Optimization Over Integers.** Bertsimas, D., Weismantel, R., _1st edition_
 
 
 ## 2004
-+ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D.
++ **Knapsack Problems.** Kellerer H., Pferschy U., Pisinger D., _1st edition_
 
 
 ## 2003
-+ **Combinatorial Optimization: Polyhedra and Efficiency.** Schrijver A.
++ **Combinatorial Optimization: Polyhedra and Efficiency.** Schrijver A., _1st edition_
 
 
 ## 2001
@@ -63,16 +64,16 @@
 
 
 ## 1999
-+ **Large Scale Linear and Integer Optimization: A Unified Approach.** Martin R.K.
++ **Large Scale Linear and Integer Optimization: A Unified Approach.** Martin R.K., _1st edition_
 
 
 ## 1997
-+ **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A.
-+ **Primal-Dual Interior Point Algorithms.** Wright S.
++ **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A., _1st edition_
++ **Primal-Dual Interior Point Algorithms.** Wright S., _1st edition_
 
 
 ## 1996
-+ **Linear Programming: Foundations and Extensions.** Vanderbei R.J.
++ **Linear Programming: Foundations and Extensions.** Vanderbei R.J., _1st edition_
 
 
 ## 1995

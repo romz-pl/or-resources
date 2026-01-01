@@ -1,8 +1,12 @@
 # List of books in chronological order
 
+## 2025
++ **The MILP Optimization Handbook: An Introduction to Linear and Integer Programming for Practitioners** DeJans A.D. Jr, _1st edition_
+
+
 ## 2023
-+ **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D. 
-+ **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E.
++ **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
++ **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_
 
 
 ## 2021
@@ -96,7 +100,7 @@
 
 
 ## 1986
-+ **Theory of Linear and Integer Programming.** Schrijver A.
++ **Theory of Linear and Integer Programming.** Schrijver A., _1st edition_
 
 
 ## 1983

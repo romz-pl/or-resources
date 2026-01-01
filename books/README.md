@@ -1,7 +1,8 @@
 # List of books in chronological order
 
 ## 2025
-+ **Applied Mathematical Programming for Business and Economics.** Kim M.-K., Spreen T.H., McCarl B.A., Fei C., [1st edition](https://doi.org/10.1142/12746) 
++ **Applied Mathematical Programming for Business and Economics.** Kim M.-K., Spreen T.H., McCarl B.A., Fei C., [1st edition](https://doi.org/10.1142/12746)
++ **The Linearization Handbook for MILP Optimization: Modeling Tricks and Patterns for Practitioners.** DeJans A.D. Jr, _1st edition_
 + **The MILP Optimization Handbook: An Introduction to Linear and Integer Programming for Practitioners** DeJans A.D. Jr, _1st edition_
 
 

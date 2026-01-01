@@ -43,3 +43,8 @@
 
 ## 1963
 + **Linear Programming and Extensions.** Dantzig G.B.
+
+
+## 1962
++ **Flows in Networks.** Ford L.R. Jr., Fulkerson D.R.
+ 

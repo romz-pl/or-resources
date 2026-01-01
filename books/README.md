@@ -17,6 +17,10 @@
 + **Network Flows: Theory, Algorithms, and Applications.** Ahuja, R.K., Magnanti, T.L., Orlin, J.B. 
 
 
+## 1983
+**Linear Programming.** Chvátal, V.
+
+
 ## 1976
 + **Graph Theory with Applications.** Bondy, J.A., Murty, U.S.R.
 

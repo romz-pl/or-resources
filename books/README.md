@@ -7,11 +7,13 @@
 ## 2024
 + **A First Course in Linear Optimization.** Lee J., [4th edition](https://github.com/jon77lee/JLee_LinearOptimizationBook)
 + **Branch-and-Price.** Desrosiers J., Lübbecke M., Desaulniers G., Gauthier J.B., [1st edition](https://www.gerad.ca/en/papers/G-2024-36)
++ **Combinatorial and Algorithmic Mathematics From Foundation to Optimization.** Alzalg B., [1st edition](https://www.wiley.com/en-it/Combinatorial+and+Algorithmic+Mathematics%3A+From+Foundation+to+Optimization-p-9781394235940)
 
 
 ## 2023
 + **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_
+
 
 ## 2022
 + **Introduction to Combinatorial Optimization**, Du D.-Z., Pardalos P.M., Hu X., Wu W., [1st edition](https://doi.org/10.1007/978-3-031-10596-8)
@@ -24,6 +26,7 @@
 
 
 ## 2020
++ **Exact and Heuristic Scheduling Algorithms.** Werner F., Burtseva L., Sotskov Y., [1st edition](https://doi.org/10.3390/books978-3-03928-469-6)
 + **Linear Programming: Foundations and Extensions.** Vanderbei R.J., [5th edition](https://link.springer.com/book/10.1007/978-3-030-39415-8)
 + **Location Science.** Laporte G., Nickel S., da Gama F.S., _2nd edition_
 
@@ -43,6 +46,7 @@
 
 ## 2014
 + **Integer Programming.** Conforti M., Cornuéjols G., Zambelli G., _1st edition_
++ **Integration of Process Planning and Scheduling Approaches and Algorithms.** Phanden R.K., Jain A., Davim J.P., [1st edition](https://doi.org/10.1201/9780429021305)
 + **The Vehicle Routing Problem.** Toth P., Vigo D., _1st edition_
 
 

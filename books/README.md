@@ -4,6 +4,10 @@
 + **The MILP Optimization Handbook: An Introduction to Linear and Integer Programming for Practitioners** DeJans A.D. Jr, _1st edition_
 
 
+## 2024
++ **A First Course in Linear Optimization.** Lee J., [4th edition](https://github.com/jon77lee/JLee_LinearOptimizationBook)
+
+
 ## 2023
 + **Problems and Solutions for Integer and Combinatorial Optimization: Building Skills in Discrete Optimization.** Pinar M.Ç., Akkaya D., _1st edition_
 + **The Evolution of the Vehicle Routing Problem: A Survey of VRP Research and Practice from 2005 to 2022.**  Golden B, Wang X., Wasil E., _1st edition_

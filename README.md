@@ -1,4 +1,4 @@
-# Resources devoted to operations research.
+# Resources devoted to operations research
 
 
 ## Books

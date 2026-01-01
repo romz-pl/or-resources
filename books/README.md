@@ -56,6 +56,7 @@
 
 ## 1997
 + **Combinatorial Optimization.** Cook W.J., Cunningham W.H., Pulleyblank W.R., Schrijver A.
++ **Primal-Dual Interior Point Algorithms.** Wright S.
 
 
 ## 1996

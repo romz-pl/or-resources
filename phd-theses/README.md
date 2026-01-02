@@ -3,7 +3,6 @@
 
 ## 2025
 + Advancing Mixed-Integer Programming Using Data-Driven and Deduction-Based Methods, [Antonia Chmiela](https://depositonce.tu-berlin.de/items/09e1771f-cb60-4526-aa0d-290722b05845)
-+ Efficient numerical algorithms for large-scale conic optimization, [Yuwen Chen](https://ora.ox.ac.uk/objects/uuid:de3ac92d-22cd-4440-9f74-2759481fbc64)
 + Integration of modeling and solution approaches for flow shop scheduling in the chemical industry, [Roderich Vien-Quang Wallrath](https://research.utwente.nl/en/publications/integration-of-modeling-and-solution-approaches-for-flow-shop-sch/)
 + Mechanism Design and Integer Programming in the Data Age, [Siddharth Prasad](https://sid-prasad.github.io/papers/phdthesis.pdf)
 
@@ -11,6 +10,7 @@
 ## 2024
 + Algorithm Design for Mixed-Integer Black-Box Optimization Problems with Uncertainty, [André Thomaser](https://theses.liacs.nl/3045)
 + Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)
++ Efficient numerical algorithms for large-scale conic optimization, [Yuwen Chen](https://ora.ox.ac.uk/objects/uuid:de3ac92d-22cd-4440-9f74-2759481fbc64)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
 
 

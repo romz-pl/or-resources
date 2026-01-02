@@ -1,6 +1,10 @@
 # PhD Theses in chronological order
 
 
+## 2024
++ Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
+
+
 ## 2023
 + Exploiting Symmetry in Linear and Integer Linear Programming, [Ethan Jedidiah Deakins](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9358&context=utk_graddiss)
 + Integer linear programming methods for discrete and continuous location fibre-to-the-home network design, [Danny Peter Yen](https://wrap.warwick.ac.uk/id/eprint/188685/1/WRAP_Theses_Yen_2023.pdf)

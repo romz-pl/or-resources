@@ -1,5 +1,9 @@
 # Articles describing Gurobi in chronological order
 
+## 2025
++ Backing PDHG into a Corner, [arXiv]( 	https://doi.org/10.48550/arXiv.2511.13894)
+
+
 ## 2019
 + Presolve Reductions in Mixed Integer Programming, [INFORMS Journal on Computing](https://doi.org/10.1287/ijoc.2018.0857)
 

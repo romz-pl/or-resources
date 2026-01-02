@@ -8,6 +8,7 @@
 [Journals in alphabetical order](./journals/README.md)
 
 ## Software
++ [CPLEX articles](./software/cplex/README.md)
 + [Gurobi articles](./software/gurobi/README.md)
 + [SCIP articles](./software/scip/README.md)
 

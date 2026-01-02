@@ -26,6 +26,7 @@
 
 
 ## 2020
++ Enhanced Predictions and Structure Exploitation in Branch-and-Bound, [Gerald Gamrath](https://depositonce.tu-berlin.de/items/cc5262b1-0abd-4591-99e0-4872bc48d06d)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
 
 

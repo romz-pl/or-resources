@@ -25,6 +25,10 @@
 + Optimization of Stationary Expansion Planning and Transient Network Control by Mixed-Integer Nonlinear Programming, [Ralf Lenz](https://depositonce.tu-berlin.de/items/08a00446-8609-447a-95cc-219f0a522f1a)
 
 
+## 2020
++ On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
+
+
 ## 2008
 + Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
 

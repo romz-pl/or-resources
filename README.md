@@ -2,12 +2,13 @@
 
 
 ## Books
-[List of books in chronological order](./books/README.md)
+[Books in chronological order](./books/README.md)
 
 ## Journals
-[List of journals in alphabetical order](./journals/README.md)
+[Journals in alphabetical order](./journals/README.md)
 
 ## Software
+[Articles describing Gurobi](./software/gurobi/README.md)
 
 ## Problems
 

@@ -18,6 +18,10 @@
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
 
 
+## 2021
++ Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)
+
+
 ## 2008
 + Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
 

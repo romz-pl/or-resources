@@ -5,6 +5,10 @@
 + Exploiting Symmetry in Linear and Integer Linear Programming, [Ethan Jedidiah Deakins](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9358&context=utk_graddiss)
 
 
+## 2008
++ Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
+
+
 ## 2007
 + Constraint Integer Programming, [Tobias Achterberg](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/1112/file/Achterberg_Constraint_Integer_Programming.pdf)
 

@@ -15,3 +15,6 @@
 ## 2002
 + Solving Real-World Linear Programs: A Decade and More of Progress, [Operations Research](https://doi.org/10.1287/opre.50.1.3.17780)
 
+
+## 2000
++ MIP: Theory and Practice — Closing the Gap, [System Modelling and Optimization](https://doi.org/10.1007/978-0-387-35514-6_2)

@@ -31,6 +31,10 @@
 + Tighter Relaxations in Mixed-Integer Nonlinear Programming, [Benjamin Müller](https://depositonce.tu-berlin.de/items/98b818aa-99e6-4185-af2f-31e22d669b13)
 
 
+## 2018
++ Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
+
+
 ## 2008
 + Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
 

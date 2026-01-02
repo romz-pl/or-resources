@@ -2,6 +2,7 @@
 
 
 ## 2024
++ Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
 
 

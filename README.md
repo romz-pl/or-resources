@@ -21,6 +21,11 @@
 + [Gurobi articles](./software/gurobi/README.md)
 + [SCIP articles](./software/scip/README.md)
 
+
+## Benchmarks
++ Decision tree for optimization software, [Hans Mittelmann](http://plato.asu.edu/guide.html)
+
+<!--
 ## Problems
 
 ## Articles
@@ -28,6 +33,6 @@
 ## Models
 
 ## Libraries
+-->
 
-## Benchmarks
-+ Decision tree for optimization software, [Hans Mittelmann](http://plato.asu.edu/guide.html)
+

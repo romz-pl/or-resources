@@ -21,3 +21,8 @@
 
 ## 2009
 + SCIP: solving constraint integer programs, [Mathematical Programming Computation](https://doi.org/10.1007/s12532-008-0001-1)
+
+
+## 2005
++ Branching rules revisited, [Operations Research Letters](https://doi.org/10.1016/j.orl.2004.04.002)
+

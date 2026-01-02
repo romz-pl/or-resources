@@ -5,6 +5,7 @@
 
 
 ## 2007
++ An Evolutionary Algorithm for Polishing Mixed Integer Programming Solutions, [INFORMS Journal on Computing](https://doi.org/10.1287/ijoc.1060.0189)
 + Progress in computational mixed integer programming — A look back from the other side of the tipping point, [Annals of Operations Research](https://doi.org/10.1007/s10479-006-0091-y)
 
 

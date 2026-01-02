@@ -2,6 +2,7 @@
 
 
 ## 2024
++ Algorithm Design for Mixed-Integer Black-Box Optimization Problems with Uncertainty, [André Thomaser](https://theses.liacs.nl/3045)
 + Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
 
@@ -33,6 +34,10 @@
 
 ## 2018
 + Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
+
+
+## 2017
++ Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 
 
 ## 2008

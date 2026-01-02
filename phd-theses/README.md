@@ -11,6 +11,7 @@
 + Algorithm Design for Mixed-Integer Black-Box Optimization Problems with Uncertainty, [André Thomaser](https://theses.liacs.nl/3045)
 + Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)
 + Efficient numerical algorithms for large-scale conic optimization, [Yuwen Chen](https://ora.ox.ac.uk/objects/uuid:de3ac92d-22cd-4440-9f74-2759481fbc64)
++ Large-Scale Airline Recovery using Mixed-Integer Optimization and Supervised Learning, [Ahmet Esat Hizir](https://dspace.mit.edu/handle/1721.1/153670)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
 + Mixed-Integer Nonlinear Programming Algorithms Based on Discrete Convex Analysis with Applications to Integrated Decision-Making Problems, [David Linan Romero](https://hdl.handle.net/10012/21082)
 

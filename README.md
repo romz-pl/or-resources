@@ -4,6 +4,15 @@
 ## Books
 [Books in chronological order](./books/README.md)
 
+
+## PhD Theses
+[PhD Theses in chronological order](./phd-theses/README.md)
+
+
+## Master Theses
+[Master Theses in chronological order](./master-theses/README.md)
+
+
 ## Journals
 [Journals in alphabetical order](./journals/README.md)
 

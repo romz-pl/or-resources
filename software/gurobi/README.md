@@ -1,7 +1,8 @@
 # Articles describing Gurobi in chronological order
 
 ## 2025
-+ Backing PDHG into a Corner, [arXiv]( 	https://doi.org/10.48550/arXiv.2511.13894)
++ Backing PDHG into a Corner, [arXiv](https://doi.org/10.48550/arXiv.2511.13894)
++ Concurrent crossover for PDHG, [arXiv](https://arxiv.org/abs/2510.24429)
 
 
 ## 2019

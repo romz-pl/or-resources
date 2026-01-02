@@ -2,6 +2,7 @@
 
 
 ## 2025
++ Advancing Mixed-Integer Programming Using Data-Driven and Deduction-Based Methods, [Antonia Chmiela](https://depositonce.tu-berlin.de/items/09e1771f-cb60-4526-aa0d-290722b05845)
 + Mechanism Design and Integer Programming in the Data Age, [Siddharth Prasad](https://sid-prasad.github.io/papers/phdthesis.pdf)
 
 

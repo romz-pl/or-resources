@@ -12,7 +12,7 @@
 + Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)
 + Efficient numerical algorithms for large-scale conic optimization, [Yuwen Chen](https://ora.ox.ac.uk/objects/uuid:de3ac92d-22cd-4440-9f74-2759481fbc64)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
-
++ Mixed-Integer Nonlinear Programming Algorithms Based on Discrete Convex Analysis with Applications to Integrated Decision-Making Problems, [David Linan Romero](https://hdl.handle.net/10012/21082)
 
 ## 2023
 + Cutting Plane Selection for Mixed-Integer Linear Programming, [Mark Turner](https://depositonce.tu-berlin.de/items/8caa0d04-146d-4ec2-b69a-766687ca16b5)
@@ -36,6 +36,7 @@
 ## 2020
 + Enhanced Predictions and Structure Exploitation in Branch-and-Bound, [Gerald Gamrath](https://depositonce.tu-berlin.de/items/cc5262b1-0abd-4591-99e0-4872bc48d06d)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
++ Quantified Integer Programming with Polyhedral and Decision-Dependent Uncertainty, [Michael Hartisch](https://d-nb.info/1217844996/34)
 + Tighter Relaxations in Mixed-Integer Nonlinear Programming, [Benjamin Müller](https://depositonce.tu-berlin.de/items/98b818aa-99e6-4185-af2f-31e22d669b13)
 
 

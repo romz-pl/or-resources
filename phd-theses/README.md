@@ -14,6 +14,10 @@
 + Modeling and solving real-world transient gas network transport problems using mathematical programming, [Felix Paul Hennings](https://depositonce.tu-berlin.de/items/3951ce2e-ef41-43c8-a89c-becbaf553d0c)
 
 
+## 2022
++ Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
+
+
 ## 2008
 + Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
 

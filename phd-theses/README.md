@@ -19,6 +19,7 @@
 
 
 ## 2021
++ Adaptive Solver Behavior in Mixed-Integer Programming, [Gregor Christian Hendel](https://depositonce.tu-berlin.de/items/d6d22f30-37b3-42ed-afb9-be9c0aaa2931)
 + Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)
 
 

@@ -14,6 +14,8 @@
 + Large-Scale Airline Recovery using Mixed-Integer Optimization and Supervised Learning, [Ahmet Esat Hizir](https://dspace.mit.edu/handle/1721.1/153670)
 + Mixed-integer formulations for large-scale energy-environmental optimization, [Olli Herrala](https://aaltodoc.aalto.fi/server/api/core/bitstreams/66749c7b-4db1-4d4a-8c61-46718f941880/content)
 + Mixed-Integer Nonlinear Programming Algorithms Based on Discrete Convex Analysis with Applications to Integrated Decision-Making Problems, [David Linan Romero](https://hdl.handle.net/10012/21082)
++ On the Proof Complexity of Linear Programming Based Branch-and-Bound, [Maximilian Gläser](https://tuprints.ulb.tu-darmstadt.de/entities/publicationzv/c8b65f71-7956-4b82-b622-5f28a1026982)
+
 
 ## 2023
 + Cutting Plane Selection for Mixed-Integer Linear Programming, [Mark Turner](https://depositonce.tu-berlin.de/items/8caa0d04-146d-4ec2-b69a-766687ca16b5)

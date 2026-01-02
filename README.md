@@ -9,6 +9,7 @@
 
 ## Software
 [Articles describing Gurobi](./software/gurobi/README.md)
+[Articles describing SCIP](./software/scip/README.md)
 
 ## Problems
 

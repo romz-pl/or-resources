@@ -1,5 +1,8 @@
 # Articles describing SCIP in chronological order
 
+## 2025
++ The SCIP Optimization Suite 10.0, [arXiv](https://arxiv.org/abs/2511.18580)
+
 ## 2023
 + PaPILO: A Parallel Presolving Library for Integer and Linear Optimization with Multiprecision Support, [INFORMS Journal on Computing](https://doi.org/10.1287/ijoc.2022.0171)
 

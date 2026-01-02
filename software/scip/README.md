@@ -23,6 +23,10 @@
 + SCIP: solving constraint integer programs, [Mathematical Programming Computation](https://doi.org/10.1007/s12532-008-0001-1)
 
 
+## 2008
++ Constraint Integer Programming: A New Approach to Integrate CP and MIP, [Integration of AI and OR Techniques in Constraint Programming for Combinatorial Optimization Problems](https://doi.org/10.1007/978-3-540-68155-7_4)
+
+
 ## 2005
 + Branching rules revisited, [Operations Research Letters](https://doi.org/10.1016/j.orl.2004.04.002)
 

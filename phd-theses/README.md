@@ -1,6 +1,10 @@
 # PhD Theses in chronological order
 
 
+## 2025
++ Mechanism Design and Integer Programming in the Data Age, [Siddharth Prasad](https://sid-prasad.github.io/papers/phdthesis.pdf)
+
+
 ## 2024
 + Algorithm Design for Mixed-Integer Black-Box Optimization Problems with Uncertainty, [André Thomaser](https://theses.liacs.nl/3045)
 + Algorithms and Certificates for Exact Mixed Integer Programming, [Leon Dorian Eifler](https://d-nb.info/1370379641/34)

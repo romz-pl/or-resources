@@ -14,6 +14,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Canadian Journal of Mathematics](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics)
 + [Combinatorica](https://link.springer.com/journal/493)
 + [Computational Optimization and Applications](https://link.springer.com/journal/10589)
++ [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 + [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
 
 
@@ -31,14 +32,17 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## I
++ [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/journal/ijaa)
 + [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
 
 
 ## J
 + [Journal of Air Transport Management](https://www.sciencedirect.com/journal/journal-of-air-transport-management)
++ [Journal of Combinatorial Optimization](https://link.springer.com/journal/10878)
 + [Journal of Computing and System Science](https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences)
 + [Journal of Global Optimization](https://link.springer.com/journal/10898)
 + [Journal of Heuristics](https://link.springer.com/journal/10732)
++ [Journal of the Operational Research Society](https://www.tandfonline.com/journals/tjor20)
 + [Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
 + [Journal of Research of the National Bureau of Standards](https://www.nist.gov/nist-research-library/journal-research-nist/about-journal)
 + [Journal of Scheduling](https://link.springer.com/journal/10951)
@@ -48,6 +52,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 ## M
 + [Machine Learning](https://link.springer.com/journal/10994)
 + [Management Science](https://pubsonline.informs.org/journal/mnsc)
++ [Mathematical Problems in Engineering](https://onlinelibrary.wiley.com/journal/2629)
 + [Mathematical Programming](https://link.springer.com/journal/10107)
 + [Mathematical Programming Computation](https://link.springer.com/journal/12532)
 + [Mathematics of Operations Research](https://pubsonline.informs.org/journal/moor)
@@ -83,6 +88,8 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## T
 + [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
++ [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
++ [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
 + [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
 + [Transportation Science](https://pubsonline.informs.org/journal/trsc)
 + [The Computer Journal](https://academic.oup.com/comjnl)

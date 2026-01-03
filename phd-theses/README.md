@@ -50,6 +50,7 @@
 + Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)
 + Optimization of Energy System Design and Operation using Multi-Objective Evolutionary Algorithms and Mixed-Integer Linear Programming, [Cord Kaldemeyer](https://d-nb.info/1247338932/34)
 + Optimization of Stationary Expansion Planning and Transient Network Control by Mixed-Integer Nonlinear Programming, [Ralf Lenz](https://depositonce.tu-berlin.de/items/08a00446-8609-447a-95cc-219f0a522f1a)
++ Power-to-Methane Process Synthesis via Mixed-Integer Nonlinear Programming, [Jennifer Uebbing](https://pure.mpg.de/rest/items/item_3327696_5/component/file_3337084/content)
 
 
 ## 2020

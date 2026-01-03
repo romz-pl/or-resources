@@ -23,6 +23,10 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
 
 
+## J
++ [Journal of Heuristics](https://link.springer.com/journal/10732)
+
+
 ## M
 + [Management Science](https://pubsonline.informs.org/journal/mnsc)
 + [Mathematical Programming](https://link.springer.com/journal/10107)
@@ -38,6 +42,8 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Operations Research](https://pubsonline.informs.org/journal/opre)
 + [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)
 + [Optimization Letters](https://link.springer.com/journal/115900)
++ [ORSA Journal on Computing](
+
 
 ## S
 + [SIAM Journal on Discrete Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-discrete-mathematics/)

@@ -83,3 +83,6 @@
 ## 2004
 + Rapid Mathematical Programming, [Thorsten Koch](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/834/file/ZR-04-58.pdf)
 
+
+## 2003
++ Planning for robust airline operations: Optimizing aircraft routings and flight departure times to achieve minimum passenger disruptions, [Shan Lan](https://dspace.mit.edu/handle/1721.1/17568)

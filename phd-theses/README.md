@@ -48,6 +48,7 @@
 + Efficient Methods for Congruency-Constrained Optimization, [Martin Nägele](https://www.or.uni-bonn.de/cards/home/naegele/assets/pdf/theses/phd_thesis.pdf)
 + Faster algorithms for Steiner tree and related problems: From theory to practice, [Daniel Rehfeld](https://depositonce.tu-berlin.de/items/5a5243c1-e5f4-48b3-8ce6-ea69993b3719)
 + Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)
++ Optimization of Energy System Design and Operation using Multi-Objective Evolutionary Algorithms and Mixed-Integer Linear Programming, [Cord Kaldemeyer](https://d-nb.info/1247338932/34)
 + Optimization of Stationary Expansion Planning and Transient Network Control by Mixed-Integer Nonlinear Programming, [Ralf Lenz](https://depositonce.tu-berlin.de/items/08a00446-8609-447a-95cc-219f0a522f1a)
 
 

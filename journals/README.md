@@ -2,6 +2,10 @@
 
 The journals publishing articles on operations research cover a wide spectrum from theory to applications.
 
+## A
++ [Annals of Operations Research](https://link.springer.com/journal/10479)
+
+
 ## C
 + [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
 

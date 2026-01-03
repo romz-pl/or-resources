@@ -5,7 +5,7 @@
 [Books in chronological order](./books/README.md)
 
 
-## PhD Theses
+## PhD Theses (PhD Dissertations)
 [PhD Theses in chronological order](./phd-theses/README.md)
 
 

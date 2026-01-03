@@ -19,6 +19,7 @@
 
 ## 2023
 + Cutting Plane Selection for Mixed-Integer Linear Programming, [Mark Turner](https://depositonce.tu-berlin.de/items/8caa0d04-146d-4ec2-b69a-766687ca16b5)
++ Distribution Grid Optimal Power Flow Incorporating Smart Inverters and Legacy Control Devices, [Alper Savasci](https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=6739&context=etd)
 + Exploiting Symmetry in Linear and Integer Linear Programming, [Ethan Jedidiah Deakins](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9358&context=utk_graddiss)
 + Integer linear programming methods for discrete and continuous location fibre-to-the-home network design, [Danny Peter Yen](https://wrap.warwick.ac.uk/id/eprint/188685/1/WRAP_Theses_Yen_2023.pdf)
 + Linear Programming in MILP Solving: A Computational Perspective, [Matthias Miltenberger](https://d-nb.info/1358633320/34)

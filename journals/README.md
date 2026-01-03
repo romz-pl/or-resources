@@ -5,6 +5,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 ## 4
 + [4OR: A Quarterly Journal of Operations Research](https://link.springer.com/journal/10288)
 
+
 ## A
 + [Annals of Operations Research](https://link.springer.com/journal/10479)
 
@@ -23,6 +24,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## E
++ [Econometrica](https://onlinelibrary.wiley.com/journal/14680262)
 + [European Journal of Operations Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)
 
 
@@ -31,6 +33,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## J
++ [Journal of Computing and System Science](https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences)
 + [Journal of Global Optimization](https://link.springer.com/journal/10898)
 + [Journal of Heuristics](https://link.springer.com/journal/10732)
 + [Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
@@ -47,6 +50,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## N
++ [Naval Research Logistics Quarterly](https://onlinelibrary.wiley.com/journal/15206750)
 + [Networks](https://onlinelibrary.wiley.com/journal/10970037)
 
 
@@ -56,13 +60,23 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Optimization Letters](https://link.springer.com/journal/115900)
 
 
+## P
++ [Proceedings of the American Mathematical Society](https://www.ams.org/publications/journals/journalsframework/aboutproc)
+
+
+## R
++ [RAIRO - Operations Research](https://www.rairo-ro.org/)
+
+
 ## S
++ [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-applied-mathematics/)
++ [SIAM Journal on Computing](https://epubs.siam.org/journal/smjcat)
 + [SIAM Journal on Discrete Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-discrete-mathematics/)
 + [SIAM Journal on Optimization](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/)
 + [SIAM Review](https://epubs.siam.org/journal/siread)
 
 
 ## T
-+ [The Computer Journal](https://academic.oup.com/comjnl)
++ [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
 + [Transportation Science](https://pubsonline.informs.org/journal/trsc)
-
++ [The Computer Journal](https://academic.oup.com/comjnl)

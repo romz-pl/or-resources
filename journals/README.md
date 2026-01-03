@@ -25,6 +25,8 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## E
 + [Econometrica](https://onlinelibrary.wiley.com/journal/14680262)
++ [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)
++ [EURO Journal on Transportation and Logistics](https://www.sciencedirect.com/journal/euro-journal-on-transportation-and-logistics)
 + [European Journal of Operations Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)
 
 
@@ -33,11 +35,13 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## J
++ [Journal of Air Transport Management](https://www.sciencedirect.com/journal/journal-of-air-transport-management)
 + [Journal of Computing and System Science](https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences)
 + [Journal of Global Optimization](https://link.springer.com/journal/10898)
 + [Journal of Heuristics](https://link.springer.com/journal/10732)
 + [Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
 + [Journal of Research of the National Bureau of Standards](https://www.nist.gov/nist-research-library/journal-research-nist/about-journal)
++ [Journal of Scheduling](https://link.springer.com/journal/10951)
 + [Journal of the ACM](https://dl.acm.org/journal/jacm)
 
 
@@ -58,6 +62,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Operations Research](https://pubsonline.informs.org/journal/opre)
 + [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)
 + [Optimization Letters](https://link.springer.com/journal/115900)
++ [OR Spectrum: Quantitative Approaches in Management](https://link.springer.com/journal/291)
 
 
 ## P
@@ -78,5 +83,6 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## T
 + [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
++ [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
 + [Transportation Science](https://pubsonline.informs.org/journal/trsc)
 + [The Computer Journal](https://academic.oup.com/comjnl)

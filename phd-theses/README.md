@@ -34,6 +34,7 @@
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
 + Novel Mixed Integer Programming Approaches to Unit Commitment and Tool Switching Problems, [Najmaddin Akhundov](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9113&context=utk_graddiss)
 + Sequential Optimization Under Uncertainty: Models, Algorithms, and Applications, [Xian Yu](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/aca2c617-9882-4606-9b48-18124280a705/content)
++ Solution algorithms for multi-objective integer linear programming models, [2022](https://pure.au.dk/ws/portalfiles/portal/428961714/PhD_Dissertation_Nicolas_Forget.pdf)
 
 
 ## 2021

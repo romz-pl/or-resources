@@ -2,6 +2,9 @@
 
 The journals publishing articles on operations research cover a wide spectrum from theory to applications.
 
+## C
++ [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
+
 
 ## D
 + [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)

@@ -23,6 +23,8 @@
 + Integer linear programming methods for discrete and continuous location fibre-to-the-home network design, [Danny Peter Yen](https://wrap.warwick.ac.uk/id/eprint/188685/1/WRAP_Theses_Yen_2023.pdf)
 + Linear Programming in MILP Solving: A Computational Perspective, [Matthias Miltenberger](https://d-nb.info/1358633320/34)
 + Modeling and solving real-world transient gas network transport problems using mathematical programming, [Felix Paul Hennings](https://depositonce.tu-berlin.de/items/3951ce2e-ef41-43c8-a89c-becbaf553d0c)
++ Results on Sparse Integer Programming and Geometric Independent Sets, [Jana Tabea Cslovjecsek](https://infoscience.epfl.ch/server/api/core/bitstreams/1ff05fb8-5073-49fc-beef-ad41bd54afa7/content)
++ Utilization of Integer Programming for Scheduling Maintenance at Nuclear Power PlantsNuclear Power Plants, [Timothy Gallacher](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9941&context=utk_graddiss)
 
 
 ## 2022

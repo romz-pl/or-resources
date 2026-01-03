@@ -31,6 +31,7 @@
 
 ## 2022
 + Adaptive Solver Behavior in Mixed-Integer Programming, [Gregor Christian Hendel](https://depositonce.tu-berlin.de/items/d6d22f30-37b3-42ed-afb9-be9c0aaa2931)
++ Algorithms for Stochastic Mixed-integer Nonlinear Programming and Long Term Optimization of Electric Power Systems, [Can Li](https://doi.org/10.1184/R1/19146431)
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
 + Mixed Integer Programming Approaches for Group Decision Making, [Hoi Cheong Iam](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/97ad91e8-868a-4a39-ac8c-742e48ebce7d/content)
 + Mixed Integer Programming for University Timetabling, [Dennis Søren Holm](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)

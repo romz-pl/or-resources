@@ -33,6 +33,7 @@
 + Adaptive Solver Behavior in Mixed-Integer Programming, [Gregor Christian Hendel](https://depositonce.tu-berlin.de/items/d6d22f30-37b3-42ed-afb9-be9c0aaa2931)
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
 + Mixed Integer Programming Approaches for Group Decision Making, [Hoi Cheong Iam](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/97ad91e8-868a-4a39-ac8c-742e48ebce7d/content)
++ Mixed Integer Programming for University Timetabling, [Dennis Søren Holm](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 + Mixed-integer Programming Methods for Modeling and Optimization of Cascading Processes in Complex Networked Systems, [Cheng-Lung Chen](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1986&context=etd2020)
 + Novel Mixed Integer Programming Approaches to Unit Commitment and Tool Switching Problems, [Najmaddin Akhundov](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9113&context=utk_graddiss)
 + Sequential Optimization Under Uncertainty: Models, Algorithms, and Applications, [Xian Yu](https://backend.production.deepblue-documents.lib.umich.edu/server/api/core/bitstreams/aca2c617-9882-4606-9b48-18124280a705/content)

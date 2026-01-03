@@ -12,15 +12,21 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## D
 + [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)
++ [Discrete Optimization](https://www.sciencedirect.com/journal/discrete-optimization)
 
 
 ## E
 + [European Journal of Operations Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)
 
 
+## I
++ [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
+
+
 ## M
 + [Management Science](https://pubsonline.informs.org/journal/mnsc)
 + [Mathematical Programming](https://link.springer.com/journal/10107)
++ [Mathematical Programming Computation](https://link.springer.com/journal/12532)
 + [Mathematics of Operations Research](https://pubsonline.informs.org/journal/moor)
 
 

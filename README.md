@@ -29,6 +29,9 @@
 
 ## Presentations
 + From Infeasibility to Feasibility: Improvement Heuristics to Find First Feasibles for MIPs, [2025](https://www.mixedinteger.org/2025/slides/2025-06-04%20-%20Talks%20-%20Tobias%20Achterberg.pdf)
++ Gurobi Machine Learning: Using Trained Machine Learning Predictors in Gurobi, [2023](https://app.icerm.brown.edu/assets/404/5055/5055_3801_Achterberg_042720230900_Slides.pdf)
+
+
 
 <!--
 ## Reports

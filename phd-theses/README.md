@@ -32,6 +32,7 @@
 ## 2022
 + Adaptive Solver Behavior in Mixed-Integer Programming, [Gregor Christian Hendel](https://depositonce.tu-berlin.de/items/d6d22f30-37b3-42ed-afb9-be9c0aaa2931)
 + Algorithms for Stochastic Mixed-integer Nonlinear Programming and Long Term Optimization of Electric Power Systems, [Can Li](https://doi.org/10.1184/R1/19146431)
++ Consistency in integer programming, [Atefeh Rajabalizadeh](https://dr.lib.iastate.edu/handle/20.500.12876/Qr9m95mr)
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
 + Mixed Integer Programming Approaches for Group Decision Making, [Hoi Cheong Iam](https://dspacemainprd01.lib.uwaterloo.ca/server/api/core/bitstreams/97ad91e8-868a-4a39-ac8c-742e48ebce7d/content)
 + Mixed Integer Programming for University Timetabling, [Dennis Søren Holm](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
@@ -42,6 +43,7 @@
 
 
 ## 2021
++ Advanced Optimization Methods for Problems in Power Systems and Polynomial Optimization, [Xin Shi](https://preserve.lehigh.edu/lehigh-scholarship/graduate-publications-theses-dissertations/theses-dissertations/advanced-2)
 + Efficient Methods for Congruency-Constrained Optimization, [Martin Nägele](https://www.or.uni-bonn.de/cards/home/naegele/assets/pdf/theses/phd_thesis.pdf)
 + Faster algorithms for Steiner tree and related problems: From theory to practice, [Daniel Rehfeld](https://depositonce.tu-berlin.de/items/5a5243c1-e5f4-48b3-8ce6-ea69993b3719)
 + Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)

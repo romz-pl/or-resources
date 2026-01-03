@@ -2,6 +2,9 @@
 
 The journals publishing articles on operations research cover a wide spectrum from theory to applications.
 
+## 4
++ [4OR: A Quarterly Journal of Operations Research](https://link.springer.com/journal/10288)
+
 ## A
 + [Annals of Operations Research](https://link.springer.com/journal/10479)
 
@@ -28,6 +31,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## M
++ [Machine Learning](https://link.springer.com/journal/10994)
 + [Management Science](https://pubsonline.informs.org/journal/mnsc)
 + [Mathematical Programming](https://link.springer.com/journal/10107)
 + [Mathematical Programming Computation](https://link.springer.com/journal/12532)
@@ -42,12 +46,12 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Operations Research](https://pubsonline.informs.org/journal/opre)
 + [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)
 + [Optimization Letters](https://link.springer.com/journal/115900)
-+ [ORSA Journal on Computing](
 
 
 ## S
 + [SIAM Journal on Discrete Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-discrete-mathematics/)
 + [SIAM Journal on Optimization](https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/)
++ [SIAM Review](https://epubs.siam.org/journal/siread)
 
 
 ## T

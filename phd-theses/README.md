@@ -32,7 +32,7 @@
 ## 2022
 + Adaptive Solver Behavior in Mixed-Integer Programming, [Gregor Christian Hendel](https://depositonce.tu-berlin.de/items/d6d22f30-37b3-42ed-afb9-be9c0aaa2931)
 + Mathematical Programming for Stable Control and Safe Operation of Gas Transport Networks, [Kai Hoppmann-Baum](https://depositonce.tu-berlin.de/items/adf2ee0c-2a23-480e-b20b-5e842af452dc)
-
++ Novel Mixed Integer Programming Approaches to Unit Commitment and Tool Switching Problems, [Najmaddin Akhundov](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9113&context=utk_graddiss)
 
 ## 2021
 + Efficient Methods for Congruency-Constrained Optimization, [Martin Nägele](https://www.or.uni-bonn.de/cards/home/naegele/assets/pdf/theses/phd_thesis.pdf)

@@ -44,6 +44,7 @@
 
 ## 2021
 + Advanced Optimization Methods for Problems in Power Systems and Polynomial Optimization, [Xin Shi](https://preserve.lehigh.edu/lehigh-scholarship/graduate-publications-theses-dissertations/theses-dissertations/advanced-2)
++ Application of Mixed Integer Programming Methods for Practical Educational Timetabling, [Rasmus Ørnstrup Mikkelsen](https://orbit.dtu.dk/en/publications/application-of-mixed-integer-programming-methods-for-practical-ed/)
 + Efficient Methods for Congruency-Constrained Optimization, [Martin Nägele](https://www.or.uni-bonn.de/cards/home/naegele/assets/pdf/theses/phd_thesis.pdf)
 + Faster algorithms for Steiner tree and related problems: From theory to practice, [Daniel Rehfeld](https://depositonce.tu-berlin.de/items/5a5243c1-e5f4-48b3-8ce6-ea69993b3719)
 + Infeasibility Analysis for MIP, [Jakob Witzig](https://depositonce.tu-berlin.de/items/a9f13f08-fbe2-45ef-92fd-35523580e4f4)

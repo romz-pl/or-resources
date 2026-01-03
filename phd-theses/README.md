@@ -66,6 +66,10 @@
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 
 
+## 2009
++ Models and Algorithms for Combinatorial Optimization Problems arising in Railway Applications, [Valentina Cacchiani](https://amsdottorato.unibo.it/id/eprint/344/1/Tesi_Cacchiani.pdf)
+
+
 ## 2008
 + Symmetry in integer programming, [James Ostrowski](https://coral.ise.lehigh.edu/~pubs/files/ostrowski_phd_thesis.pdf)
 

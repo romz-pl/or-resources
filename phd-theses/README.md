@@ -55,6 +55,7 @@
 
 ## 2020
 + Enhanced Predictions and Structure Exploitation in Branch-and-Bound, [Gerald Gamrath](https://depositonce.tu-berlin.de/items/cc5262b1-0abd-4591-99e0-4872bc48d06d)
++ Mixed Integer Programming Approach for Inventory Distribution System, [Aster Genene](https://etd.aau.edu.et/items/96ecc86e-5f86-4eb9-aeaf-681ef067598e)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
 + Quantified Integer Programming with Polyhedral and Decision-Dependent Uncertainty, [Michael Hartisch](https://d-nb.info/1217844996/34)
 + Tighter Relaxations in Mixed-Integer Nonlinear Programming, [Benjamin Müller](https://depositonce.tu-berlin.de/items/98b818aa-99e6-4185-af2f-31e22d669b13)

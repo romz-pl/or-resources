@@ -60,6 +60,7 @@
 + Exploiting structure in mixed integer programming: Branching, cutting planes, and complexity, [Yu Yang](https://repository.gatech.edu/entities/publication/b7f0d27f-7033-4267-802f-e31389717a5e)
 + Machine learning algorithms in Mixed-Integer Programming, [Giulia Zarpellon](https://publications.polymtl.ca/5332/1/2020_Zarpellon%252C_Giulia.pdf)
 + Mixed Integer Programming Approach for Inventory Distribution System, [Aster Genene](https://etd.aau.edu.et/items/96ecc86e-5f86-4eb9-aeaf-681ef067598e)
++ New Results in Integer and Lattice Programming, [Christoph Hunkenschröder](https://infoscience.epfl.ch/entities/publication/616e990e-7154-4176-b0e5-c220fbb83370)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
 + Quantified Integer Programming with Polyhedral and Decision-Dependent Uncertainty, [Michael Hartisch](https://d-nb.info/1217844996/34)
 + Reformulation Techniques and Solution Approaches for Fractional 0-1 Programs and Applications, [Erfan Mehmanchi](https://d-scholarship.pitt.edu/37617/)

@@ -56,6 +56,7 @@
 ## 2020
 + Efficient algorithms for solving multi-objective optimization and large-scale transportation problems, [Ian Herszterg](https://repository.gatech.edu/entities/publication/b9c1a36f-12e5-4483-ab58-69558fdb52eb)
 + Enhanced Predictions and Structure Exploitation in Branch-and-Bound, [Gerald Gamrath](https://depositonce.tu-berlin.de/items/cc5262b1-0abd-4591-99e0-4872bc48d06d)
++ Exploiting structure in mixed integer programming: Branching, cutting planes, and complexity, [Yu Yang](https://repository.gatech.edu/entities/publication/b7f0d27f-7033-4267-802f-e31389717a5e)
 + Mixed Integer Programming Approach for Inventory Distribution System, [Aster Genene](https://etd.aau.edu.et/items/96ecc86e-5f86-4eb9-aeaf-681ef067598e)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
 + Quantified Integer Programming with Polyhedral and Decision-Dependent Uncertainty, [Michael Hartisch](https://d-nb.info/1217844996/34)

@@ -21,6 +21,7 @@
 + Complexity Certification Algorithms for Mixed-Integer Linear and Quadratic Programming with Applications to Hybrid MPC, [Shamisa Shoja](https://liu.diva-portal.org/smash/get/diva2%3A1947197/FULLTEXT01.pdf)
 + Cutting Plane Selection for Mixed-Integer Linear Programming, [Mark Turner](https://depositonce.tu-berlin.de/items/8caa0d04-146d-4ec2-b69a-766687ca16b5)
 + Distribution Grid Optimal Power Flow Incorporating Smart Inverters and Legacy Control Devices, [Alper Savasci](https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=6739&context=etd)
++ Exact Mixed-Integer Programming, [Kati Jarck](https://depositonce.tu-berlin.de/items/d7e6dd74-cf65-48f1-8e95-b015f7bb7fb2)
 + Exploiting Symmetry in Linear and Integer Linear Programming, [Ethan Jedidiah Deakins](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=9358&context=utk_graddiss)
 + Integer linear programming methods for discrete and continuous location fibre-to-the-home network design, [Danny Peter Yen](https://wrap.warwick.ac.uk/id/eprint/188685/1/WRAP_Theses_Yen_2023.pdf)
 + Linear Programming in MILP Solving: A Computational Perspective, [Matthias Miltenberger](https://d-nb.info/1358633320/34)

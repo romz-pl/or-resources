@@ -46,6 +46,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
 + [Journal of Research of the National Bureau of Standards](https://www.nist.gov/nist-research-library/journal-research-nist/about-journal)
 + [Journal of Scheduling](https://link.springer.com/journal/10951)
++ [Journal of Transport Geography](https://www.sciencedirect.com/journal/journal-of-transport-geography)
 + [Journal of the ACM](https://dl.acm.org/journal/jacm)
 
 
@@ -88,6 +89,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## T
 + [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
++ [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
 + [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
 + [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)
 + [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)

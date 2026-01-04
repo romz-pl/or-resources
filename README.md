@@ -32,17 +32,16 @@
 + Gurobi Machine Learning: Using Trained Machine Learning Predictors in Gurobi, [2023](https://app.icerm.brown.edu/assets/404/5055/5055_3801_Achterberg_042720230900_Slides.pdf)
 
 
+## Problems and Models Collections
++ [MINLPLib (Mixed-Integer Nonlinear Programming Library)](https://www.minlplib.org/)
++ [MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/)
++ [MINLP (CMU-IBM Cyber-Infrastructure for MINLP collaborative site)](https://www.minlp.org/)
+
 
 <!--
 ## Reports
 
-
-
-## Problems
-
 ## Articles
-
-## Models
 
 ## Libraries
 -->

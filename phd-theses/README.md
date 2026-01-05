@@ -68,6 +68,7 @@
 
 
 ## 2019
++ Algorithms for Multi-Objective Mixed Integer Programming Problems, [Alvaro Miguel Sierra Altamiranda](https://digitalcommons.usf.edu/etd/8685/)
 + Mixed Integer Programming Approaches to Novel Vehicle Routing Problems, [Tony Kent Rodriguez](https://trace.tennessee.edu/utk_graddiss/5411/)
 + Optimal and Efficient Decision-Making for Power System Expansion Planning, [Mahdi Mehrtash](https://repository.lsu.edu/gradschool_dissertations/4904/)
 + Optimizing Donor Human Milk Bank Operations, [Ruichen Sun](https://d-scholarship.pitt.edu/36038/)

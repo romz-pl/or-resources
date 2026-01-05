@@ -67,6 +67,10 @@
 + Tighter Relaxations in Mixed-Integer Nonlinear Programming, [Benjamin Müller](https://depositonce.tu-berlin.de/items/98b818aa-99e6-4185-af2f-31e22d669b13)
 
 
+## 2019
++ Two-Stage Mixed Integer Stochastic Programming and Its Application to Bond Portfolio Optimization, [Nasser Aedh Alreshidi](https://repository.fit.edu/etd/956/)
+
+
 ## 2018
 + Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
 

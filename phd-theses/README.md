@@ -68,6 +68,7 @@
 
 
 ## 2019
++ Mixed Integer Programming Approaches to Novel Vehicle Routing Problems, [Tony Kent Rodriguez](https://trace.tennessee.edu/utk_graddiss/5411/)
 + Two-Stage Mixed Integer Stochastic Programming and Its Application to Bond Portfolio Optimization, [Nasser Aedh Alreshidi](https://repository.fit.edu/etd/956/)
 
 

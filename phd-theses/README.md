@@ -58,6 +58,7 @@
 + Efficient algorithms for solving multi-objective optimization and large-scale transportation problems, [Ian Herszterg](https://repository.gatech.edu/entities/publication/b9c1a36f-12e5-4483-ab58-69558fdb52eb)
 + Enhanced Predictions and Structure Exploitation in Branch-and-Bound, [Gerald Gamrath](https://depositonce.tu-berlin.de/items/cc5262b1-0abd-4591-99e0-4872bc48d06d)
 + Exploiting structure in mixed integer programming: Branching, cutting planes, and complexity, [Yu Yang](https://repository.gatech.edu/entities/publication/b7f0d27f-7033-4267-802f-e31389717a5e)
++ Integer Programming Formulations for Distance-Constrained Network Problems, [Hosseinali Selemi](https://openresearch.okstate.edu/server/api/core/bitstreams/a7eb2c0a-fd54-488f-a956-05d3d685e1b4/content)
 + Machine learning algorithms in Mixed-Integer Programming, [Giulia Zarpellon](https://publications.polymtl.ca/5332/1/2020_Zarpellon%252C_Giulia.pdf)
 + Mixed Integer Programming Approach for Inventory Distribution System, [Aster Genene](https://etd.aau.edu.et/items/96ecc86e-5f86-4eb9-aeaf-681ef067598e)
 + New Results in Integer and Lattice Programming, [Christoph Hunkenschröder](https://infoscience.epfl.ch/entities/publication/616e990e-7154-4176-b0e5-c220fbb83370)

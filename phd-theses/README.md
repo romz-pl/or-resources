@@ -69,6 +69,7 @@
 
 ## 2019
 + Mixed Integer Programming Approaches to Novel Vehicle Routing Problems, [Tony Kent Rodriguez](https://trace.tennessee.edu/utk_graddiss/5411/)
++ Optimal and Efficient Decision-Making for Power System Expansion Planning, [Mahdi Mehrtash](https://repository.lsu.edu/gradschool_dissertations/4904/)
 + Optimizing Donor Human Milk Bank Operations, [Ruichen Sun](https://d-scholarship.pitt.edu/36038/)
 + Reformulation Techniques and Solution Approaches for Fractional 0-1 Programs and Applications, [Erfan Mehmanchi](https://d-scholarship.pitt.edu/37617/7/Erfan_Dissertation%20Sep%2029.pdf)
 + Stochastic Optimization Powered by Markov Chain Monte Carlo: Mixed-Integer Nonlinear Programming for Communications Network Scheduling, [Kristy Uyenly Tran](https://scholarship.claremont.edu/cgu_etd/345/)

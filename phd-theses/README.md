@@ -80,6 +80,7 @@
 
 ## 2018
 + Advanced mixed-integer programming formulations: Methodology, computation, and application, [Joseph Andrew Huchette](https://www.joehuchette.com/files/phd-thesis.pdf)
++ Integer and Mixed-Integer Reformulations of Stochastic, Resource-Constrained, and Quadratic Matching Problems, [Lena Maria Hupp](https://d-nb.info/1156461545/34)
 + Polyhedral Outer Approximations in Convex Mixed-Integer Nonlinear Programming, [Jan Kronqvist](https://research.abo.fi/en/publications/polyhedral-outer-approximations-in-convex-mixed-integer-nonlinear/)
 + Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
 

@@ -115,3 +115,7 @@
 
 ## 2003
 + Planning for robust airline operations: Optimizing aircraft routings and flight departure times to achieve minimum passenger disruptions, [Shan Lan](https://dspace.mit.edu/handle/1721.1/17568)
+
+
+## 2002
++ Airline fleet assignment and schedule design: integrated models and algorithms, [Manoj Lohatepanont](https://dspace.mit.edu/handle/1721.1/8297)

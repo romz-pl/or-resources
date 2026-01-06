@@ -79,6 +79,7 @@
 
 
 ## 2018
++ Advanced mixed-integer programming formulations: Methodology, computation, and application, [Joseph Andrew Huchette](https://www.joehuchette.com/files/phd-thesis.pdf)
 + Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
 
 

@@ -119,3 +119,8 @@
 
 ## 2002
 + Airline fleet assignment and schedule design: integrated models and algorithms, [Manoj Lohatepanont](https://dspace.mit.edu/handle/1721.1/8297)
+
+
+## 1996
++ The influence of network effects and yield management on airline fleet assignment decisions, [András Farkas](https://dspace.mit.edu/handle/1721.1/11206)
+

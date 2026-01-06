@@ -93,6 +93,10 @@
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 
 
+# 2011
++ Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
+
+
 ## 2009
 + Models and Algorithms for Combinatorial Optimization Problems arising in Railway Applications, [Valentina Cacchiani](https://amsdottorato.unibo.it/id/eprint/344/1/Tesi_Cacchiani.pdf)
 

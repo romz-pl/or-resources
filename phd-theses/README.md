@@ -93,7 +93,7 @@
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 
 
-# 2011
+## 2011
 + Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
 
 

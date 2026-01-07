@@ -91,6 +91,7 @@
 
 ## 2017
 + Decomposition Algorithms in Stochastic Integer Programming: Applications and Computations, [Babak Saleck Pay](https://scholarscompass.vcu.edu/etd/5027/)
++ Distributed integer programming, [Ezgi Karabulut](https://repository.gatech.edu/entities/publication/4fcef364-e3f6-416e-a75f-3fde4e92ccbd)
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 + Sparsity in integer programming, [Andres Iroume](https://repository.gatech.edu/entities/publication/d2bbe6a4-4bba-4ab0-b699-15689c4a7bc1)
 

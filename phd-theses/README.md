@@ -94,6 +94,7 @@
 + Distributed integer programming, [Ezgi Karabulut](https://repository.gatech.edu/entities/publication/4fcef364-e3f6-416e-a75f-3fde4e92ccbd)
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 + Integer Polynomial Optimization in Fixed Dimension, [Kevin Zemmer](https://www.research-collection.ethz.ch/entities/publication/d37af574-5420-42e3-b6fa-f8ca74c15de2)
++ Large scale multistage stochastic integer programming with applications in electric power systems, [Jikai Zou](https://repository.gatech.edu/entities/publication/5f0a3165-39ba-4863-b320-01e23235e35a)
 + Mixed-integer optimal control of fast dynamical systems, [Bartolomeo Stellato](https://ora.ox.ac.uk/objects/uuid%253Ab8a7323c-e36e-45ec-ae8d-6c9eb4350629)
 + Representability in Mixed Integer Quadratic Programming, [Jeff Poskin](https://search.library.wisc.edu/digital/AFS2QHLPBIBVBV9B)
 + Sparsity in integer programming, [Andres Iroume](https://repository.gatech.edu/entities/publication/d2bbe6a4-4bba-4ab0-b699-15689c4a7bc1)

@@ -90,6 +90,7 @@
 
 
 ## 2017
++ Decomposition Algorithms in Stochastic Integer Programming: Applications and Computations, [Babak Saleck Pay](https://scholarscompass.vcu.edu/etd/5027/)
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 
 

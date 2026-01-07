@@ -85,6 +85,7 @@
 + Integer and Mixed-Integer Reformulations of Stochastic, Resource-Constrained, and Quadratic Matching Problems, [Lena Maria Hupp](https://d-nb.info/1156461545/34)
 + Linear and quadratic reformulations of nonlinear optimization problems in binary variables, [Elisabeth Rodriguez Heck](https://www.or.rwth-aachen.de/files/research/theses/2018/These_RodriguezHeck_20180711.pdf)
 + New Integer Programming Approaches to Open-Pit Mining and Metabolic Engineering Problems, [Amanda G. Smith](https://search.library.wisc.edu/digital/AEVAIJOK25IC6285)
++ On High-Performance Benders-Decomposition-Based Exact Methods with Application to Mixed-Integer and Stochastic Problems, [Ragheb Rahmaniani](https://publications.polymtl.ca/3008/1/2018_RaghebRahmaniani.pdf)
 + Polyhedral Outer Approximations in Convex Mixed-Integer Nonlinear Programming, [Jan Kronqvist](https://research.abo.fi/en/publications/polyhedral-outer-approximations-in-convex-mixed-integer-nonlinear/)
 + Presolving techniques and linear relaxations for cumulative scheduling, [Stefan Heinz](https://depositonce.tu-berlin.de/items/dab53324-c1c2-4130-85fa-7ac7bb3cba6b)
 

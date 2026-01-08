@@ -107,6 +107,7 @@
 + Maximum consensus with mixed integer linear programming, [Yang Heng Kee](https://digital.library.adelaide.edu.au/items/a533eebb-774a-4c30-8bf8-13fd5f8184c3)
 + Modeling and Solving Large-scale Stochastic Mixed-Integer Problems in Transportation and Power Systems, [Zhouchun Huang](https://stars.library.ucf.edu/etd/5187/)
 + On the interplay of Mixed Integer Linear, Mixed Integer Nonlinear and Constraint Programming, [Sven Wiese](https://amsdottorato.unibo.it/id/eprint/7612/1/wiese_sven_tesi.pdf)
++ Performance Evaluation of Path Planning Techniques for Unmanned Aerial Vehicles: A comparative analysis of A-star algorithm and Mixed Integer Linear Programming, [Apuroop Paleti](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A1052215&dswid=-9454)
 + Valid Inequalities and Reformulation Techniques for Mixed Integer Nonlinear Programming, [Sina Modaresi](https://d-scholarship.pitt.edu/26372/)
 + Valid Inequalities for Mixed-Integer Linear and Mixed-Integer Conic Programs, [Sercan Yıldız](https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/2025-06/2016-joint-phd-program-algorithms-combinatorics-and-optimization-yildiz-dissertation.pdf)
 

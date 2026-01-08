@@ -102,6 +102,11 @@
 + Sparsity in integer programming, [Andres Iroume](https://repository.gatech.edu/entities/publication/d2bbe6a4-4bba-4ab0-b699-15689c4a7bc1)
 
 
+## 2016
++ Modeling and Solving Large-scale Stochastic Mixed-Integer Problems in Transportation and Power Systems, [Zhouchun Huang](https://stars.library.ucf.edu/etd/5187/)
+
+
+
 ## 2011
 + Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
 

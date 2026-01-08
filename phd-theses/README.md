@@ -134,6 +134,10 @@
 + Constraint Integer Programming, [Tobias Achterberg](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/1112/file/Achterberg_Constraint_Integer_Programming.pdf)
 
 
+## 2006
++ A scheduling model for a coal handling facility, [Marinda Swart](https://repository.up.ac.za/items/cd13f858-eec3-4c49-8801-84e88cd15fed)
+
+
 ## 2004
 + Rapid Mathematical Programming, [Thorsten Koch](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/834/file/ZR-04-58.pdf)
 

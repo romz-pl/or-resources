@@ -121,6 +121,7 @@
 
 
 ## 2009
++ Application-oriented Mixed Integer Non-Linear Programming, [Claudia D’Ambrosio](https://amsdottorato.unibo.it/id/eprint/1634/1/DAmbrosio_Claudia_tesi.pdf)
 + Models and Algorithms for Combinatorial Optimization Problems arising in Railway Applications, [Valentina Cacchiani](https://amsdottorato.unibo.it/id/eprint/344/1/Tesi_Cacchiani.pdf)
 
 
@@ -142,6 +143,7 @@
 
 ## 2002
 + Airline fleet assignment and schedule design: integrated models and algorithms, [Manoj Lohatepanont](https://dspace.mit.edu/handle/1721.1/8297)
++ Trajectory optimization using mixed-integer linear programming, [Arthur George Richards](https://dspace.mit.edu/handle/1721.1/16873)
 
 
 ## 1996

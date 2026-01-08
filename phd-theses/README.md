@@ -106,7 +106,7 @@
 + Integer Linear Programming Methods to Solve Some Mixed-Integer Nonlinear Programs, [Mahdi Hamzeei](https://search.library.wisc.edu/digital/A4VWUFXQQBMKUL8U)
 + Maximum consensus with mixed integer linear programming, [Yang Heng Kee](https://digital.library.adelaide.edu.au/items/a533eebb-774a-4c30-8bf8-13fd5f8184c3)
 + Modeling and Solving Large-scale Stochastic Mixed-Integer Problems in Transportation and Power Systems, [Zhouchun Huang](https://stars.library.ucf.edu/etd/5187/)
-
++ Valid Inequalities and Reformulation Techniques for Mixed Integer Nonlinear Programming, [Sina Modaresi](https://d-scholarship.pitt.edu/26372/)
 
 
 ## 2011

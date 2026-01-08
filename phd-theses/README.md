@@ -104,6 +104,7 @@
 
 ## 2016
 + Autonomous Navigation with Obstacle Avoidance for Unmanned Aircraft Systems using MILP, [James A. Devens](https://scholarscompass.vcu.edu/etd/4461/)
++ Effective Network Partitioning to Find MIP Solutions to the Train Dispatching Problem, [Christopher Snellings](https://scholarscompass.vcu.edu/etd/3285/)
 + Integer Linear Programming Methods to Solve Some Mixed-Integer Nonlinear Programs, [Mahdi Hamzeei](https://search.library.wisc.edu/digital/A4VWUFXQQBMKUL8U)
 + Maximum consensus with mixed integer linear programming, [Yang Heng Kee](https://digital.library.adelaide.edu.au/items/a533eebb-774a-4c30-8bf8-13fd5f8184c3)
 + Modeling and Solving Large-scale Stochastic Mixed-Integer Problems in Transportation and Power Systems, [Zhouchun Huang](https://stars.library.ucf.edu/etd/5187/)

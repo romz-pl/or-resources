@@ -23,3 +23,7 @@
 + Primal Heuristics for Mixed Integer Programs, [Timo Berthold](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/1029/file/Berthold_Primal_Heuristics_For_Mixed_Integer_Programs.pdf)
 
 
+## 1999
++ Optimal Design and Operation of a Hybrid Gas/Electric Chilled Water Plant, [Adhi Permana](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/a6c21461-503f-4447-950d-522a80fe2259/content)
+
+

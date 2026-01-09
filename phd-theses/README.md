@@ -164,3 +164,6 @@
 ## 1996
 + The influence of network effects and yield management on airline fleet assignment decisions, [András Farkas](https://dspace.mit.edu/handle/1721.1/11206)
 
+
+## 1985
++ A mixed integer linear programming approach to forest utilisation management problems, [L. R. Broad](https://ir.canterbury.ac.nz/items/60e476a6-9a57-401f-aff0-c02797a1a147)

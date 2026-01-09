@@ -99,6 +99,7 @@
 + Integer Polynomial Optimization in Fixed Dimension, [Kevin Zemmer](https://www.research-collection.ethz.ch/entities/publication/d37af574-5420-42e3-b6fa-f8ca74c15de2)
 + Large scale multistage stochastic integer programming with applications in electric power systems, [Jikai Zou](https://repository.gatech.edu/entities/publication/5f0a3165-39ba-4863-b320-01e23235e35a)
 + Mixed-integer optimal control of fast dynamical systems, [Bartolomeo Stellato](https://ora.ox.ac.uk/objects/uuid%253Ab8a7323c-e36e-45ec-ae8d-6c9eb4350629)
++ Optimal Bidding Strategy for a Strategic Power Producer Using Mixed Integer Programming, [Sayed Abdullah Sadat](https://digitalcommons.usf.edu/etd/6631/)
 + Relaxations and Approximations of Chance Constrained Stochastic Programs, [Weijun Xie](https://repository.gatech.edu/server/api/core/bitstreams/a392c544-f5ca-4c8b-8a05-7807f469249e/content)
 + Representability in Mixed Integer Quadratic Programming, [Jeff Poskin](https://search.library.wisc.edu/digital/AFS2QHLPBIBVBV9B)
 + Sparsity in integer programming, [Andres Iroume](https://repository.gatech.edu/entities/publication/d2bbe6a4-4bba-4ab0-b699-15689c4a7bc1)

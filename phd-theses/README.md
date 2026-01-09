@@ -143,6 +143,7 @@
 
 
 ## 2007
++ A mixed integer-linear programming model for solving the hydroelectric unit maintenance scheduling problem, [Yuehao Tang](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0063274)
 + Constraint Integer Programming, [Tobias Achterberg](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/1112/file/Achterberg_Constraint_Integer_Programming.pdf)
 
 

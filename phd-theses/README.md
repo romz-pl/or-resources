@@ -116,6 +116,10 @@
 + Valid Inequalities for Mixed-Integer Linear and Mixed-Integer Conic Programs, [Sercan Yıldız](https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/2025-06/2016-joint-phd-program-algorithms-combinatorics-and-optimization-yildiz-dissertation.pdf)
 
 
+## 2015
++ Exploiting Mathematical Structure in Optimization Problems with Indicator Variables, [Hyemin Jeon](https://search.library.wisc.edu/digital/A7DJWPPLP3DVZX82)
+
+
 ## 2011
 + Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
 

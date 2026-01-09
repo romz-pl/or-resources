@@ -61,6 +61,7 @@
 + Exploiting structure in mixed integer programming: Branching, cutting planes, and complexity, [Yu Yang](https://repository.gatech.edu/entities/publication/b7f0d27f-7033-4267-802f-e31389717a5e)
 + Integer Programming Formulations for Distance-Constrained Network Problems, [Hosseinali Selemi](https://openresearch.okstate.edu/server/api/core/bitstreams/a7eb2c0a-fd54-488f-a956-05d3d685e1b4/content)
 + Machine learning algorithms in Mixed-Integer Programming, [Giulia Zarpellon](https://publications.polymtl.ca/5332/1/2020_Zarpellon%252C_Giulia.pdf)
++ Mixed Integer Linear Programming for Allocation of Collateral within Securities Lending, [Martin Wass](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1448865&dswid=-5117)
 + Mixed Integer Programming Approach for Inventory Distribution System, [Aster Genene](https://etd.aau.edu.et/items/96ecc86e-5f86-4eb9-aeaf-681ef067598e)
 + New Results in Integer and Lattice Programming, [Christoph Hunkenschröder](https://infoscience.epfl.ch/entities/publication/616e990e-7154-4176-b0e5-c220fbb83370)
 + On Cutting Planes for Mixed-Integer Nonlinear Programming, [Felipe Serrano Musalem](https://depositonce.tu-berlin.de/items/0e4da05a-83db-4174-b7c2-0a6e93abaf19)
@@ -158,6 +159,7 @@
 
 ## 2002
 + Airline fleet assignment and schedule design: integrated models and algorithms, [Manoj Lohatepanont](https://dspace.mit.edu/handle/1721.1/8297)
++ Coordination and control of UAV fleets using mixed-integer linear programming, [John Saunders Bellingham](https://dspace.mit.edu/handle/1721.1/82252)
 + Trajectory optimization using mixed-integer linear programming, [Arthur George Richards](https://dspace.mit.edu/handle/1721.1/16873)
 
 

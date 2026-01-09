@@ -120,6 +120,7 @@
 + Approximating Large-Scale Binary Integer Programs by Discrete Optimal Control, [Pengbo Zhang](https://digital.lib.washington.edu/researchworks/items/6d5986e7-9a99-4746-ba13-7778c0f0b713)
 + Complexity results and integer programming models for hospitals / residents problem variants, [Iain McBride](https://theses.gla.ac.uk/7027/)
 + Exploiting Mathematical Structure in Optimization Problems with Indicator Variables, [Hyemin Jeon](https://search.library.wisc.edu/digital/A7DJWPPLP3DVZX82)
++ Integer Programming Approaches to Stochastic Games Arising in Paired Kidney Exchange and Industrial Organization, [Amin Dehghanian](https://d-scholarship.pitt.edu/25672/)
 + Mixed-integer optimization approaches to resource allocation problems with applications in healthcare asset management and epidemics, [Emmanuel Des Bordes](https://soar.wichita.edu/items/8f130264-2cac-463c-baeb-f44e31efa3c0)
 
 

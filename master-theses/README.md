@@ -10,6 +10,10 @@
 + Exploiting Symmetry in Mixed-Integer Nonlinear Programming, [Fabian Wegscheider](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/7705/file/Master_Thesis_Wegscheider.pdf)
 
 
+## 2015
++ Symmetry Detection in Integer Linear Programs, [James A. Ostrowski](https://trace.tennessee.edu/utk_gradthes/3406/)
+
+
 ## 2010
 + Generic Branch-Cut-and-Price, [Gerald Gamrath](https://www.zib.de/userpage/gamrath/publications/gamrath2010_genericBCP.pdf)
 

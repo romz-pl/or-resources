@@ -127,6 +127,10 @@
 + Mixed-integer optimization approaches to resource allocation problems with applications in healthcare asset management and epidemics, [Emmanuel Des Bordes](https://soar.wichita.edu/items/8f130264-2cac-463c-baeb-f44e31efa3c0)
 
 
+## 2013
++ Parallel solution of linear programs, [Edmund Smith](https://era.ed.ac.uk/items/905b6a2f-6e1b-4c7b-80e4-0b4c2b4151fb)
+
+
 ## 2011
 + Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
 

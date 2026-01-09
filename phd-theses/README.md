@@ -117,6 +117,7 @@
 
 
 ## 2015
++ Approximating Large-Scale Binary Integer Programs by Discrete Optimal Control, [Pengbo Zhang](https://digital.lib.washington.edu/researchworks/items/6d5986e7-9a99-4746-ba13-7778c0f0b713)
 + Complexity results and integer programming models for hospitals / residents problem variants, [Iain McBride](https://theses.gla.ac.uk/7027/)
 + Exploiting Mathematical Structure in Optimization Problems with Indicator Variables, [Hyemin Jeon](https://search.library.wisc.edu/digital/A7DJWPPLP3DVZX82)
 

@@ -117,6 +117,7 @@
 
 
 ## 2015
++ Complexity results and integer programming models for hospitals / residents problem variants, [Iain McBride](https://theses.gla.ac.uk/7027/)
 + Exploiting Mathematical Structure in Optimization Problems with Indicator Variables, [Hyemin Jeon](https://search.library.wisc.edu/digital/A7DJWPPLP3DVZX82)
 
 

@@ -133,6 +133,7 @@
 + Application-oriented Mixed Integer Non-Linear Programming, [Claudia D’Ambrosio](https://amsdottorato.unibo.it/id/eprint/1634/1/DAmbrosio_Claudia_tesi.pdf)
 + Constraint Programming Techniques for Mixed Integer Linear Programs, [Salvagnin, Domenico](https://www.research.unipd.it/retrieve/e14fb26f-fb06-3de1-e053-1705fe0ac030/thesis.pdf)
 + Models and Algorithms for Combinatorial Optimization Problems arising in Railway Applications, [Valentina Cacchiani](https://amsdottorato.unibo.it/id/eprint/344/1/Tesi_Cacchiani.pdf)
++ Rank Lower Bounds in Propositional Proof Systems Based on Integer Linear Programming Methods, [Mark Nicholas Charles Rhodes](https://etheses.dur.ac.uk/191/)
 
 
 ## 2008

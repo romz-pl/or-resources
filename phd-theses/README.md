@@ -1,5 +1,7 @@
 # PhD Theses in chronological order
 
+To find PhD theses from a wide range of subjects, I recommend [**ProQuest Dissertations & Theses Global**](https://about.proquest.com/en/products-services/pqdtglobal/), the most comprehensive database.
+
 
 ## 2025
 + A Multi-Objective Integer Programming approach for synergistic Tenant Mix optimization in shopping centers, [Grace Kelly Maureira Alegría](https://upcommons.upc.edu/entities/publication/ea88bfef-e0f4-4ceb-a497-b24a9d83b85e), Restricted access - confidentiality agreement (embargoed until 2026-10-30)

@@ -29,6 +29,7 @@
 
 ## Software
 + [CPLEX articles](./software/cplex/README.md)
++ [Google OR-Tools](https://developers.google.com/optimization)
 + [Gurobi articles](./software/gurobi/README.md)
 + [SCIP articles](./software/scip/README.md)
 

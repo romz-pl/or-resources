@@ -3,6 +3,7 @@
 
 ## 2025
 + Advancing Mixed-Integer Programming Using Data-Driven and Deduction-Based Methods, [Antonia Chmiela](https://depositonce.tu-berlin.de/items/09e1771f-cb60-4526-aa0d-290722b05845)
++ Heuristics for Integer-Programming Problems: Interval-Flows and Fixed-Charges in Generalized Networks and Integer Reformulations for Quantum Hardware, [Toby Huskinson](https://scholar.smu.edu/engineering_managment_etds/28/)
 + Integration of modeling and solution approaches for flow shop scheduling in the chemical industry, [Roderich Vien-Quang Wallrath](https://research.utwente.nl/en/publications/integration-of-modeling-and-solution-approaches-for-flow-shop-sch/)
 + Mechanism Design and Integer Programming in the Data Age, [Siddharth Prasad](https://sid-prasad.github.io/papers/phdthesis.pdf)
 

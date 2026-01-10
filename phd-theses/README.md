@@ -153,6 +153,10 @@
 + Exploiting structure in integer programs, [Jakub Mareček](https://eprints.nottingham.ac.uk/49276/)
 
 
+## 2010
++ Decomposition methods for integer linear programming, [Matthew Galati](https://coral.ise.lehigh.edu/~ted/files/papers/MatthewGalatiDissertation09.pdf)
+
+
 ## 2009
 + Application-oriented Mixed Integer Non-Linear Programming, [Claudia D’Ambrosio](https://amsdottorato.unibo.it/id/eprint/1634/1/DAmbrosio_Claudia_tesi.pdf)
 + Constraint Programming Techniques for Mixed Integer Linear Programs, [Salvagnin, Domenico](https://www.research.unipd.it/retrieve/e14fb26f-fb06-3de1-e053-1705fe0ac030/thesis.pdf)

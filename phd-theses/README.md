@@ -133,6 +133,7 @@
 
 ## 2014
 + Application of Integer Quadratic Programming to Detection of High-Dimensional Wireless Systems, [Jamal Yousuf Alsawalhi](https://docs.lib.purdue.edu/open_access_dissertations/220/)
++ Polyhedral Study of Mixed Integer Sets Arising from Inventory Problems, [Mahdi Doostmohammadi](https://pureportal.strath.ac.uk/en/publications/polyhedral-study-of-mixed-integer-sets-arising-from-inventory-pro/)
 
 
 ## 2013

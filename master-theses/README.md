@@ -1,5 +1,9 @@
 # Master Theses in chronological order
 
+## 2025
++ Global Non-Convex Optimization with Integer Variables, [Demetrios C. Kriezis](https://dspace.mit.edu/handle/1721.1/162709)
+
+
 ## 2023
 + Using an integer programming approach to solve examination timetabling problems, [Stijn Theeuwen](https://pure.tue.nl/ws/portalfiles/portal/305653773/Theeuwen_S.pdf)
 

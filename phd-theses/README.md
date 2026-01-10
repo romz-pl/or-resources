@@ -86,6 +86,7 @@
 
 ## 2018
 + Advanced mixed-integer programming formulations: Methodology, computation, and application, [Joseph Andrew Huchette](https://www.joehuchette.com/files/phd-thesis.pdf)
++ Decomposition Techniques for Large-Scale Optimization in the Supply Chain, [Lindsay Sanneman](https://dspace.mit.edu/bitstream/handle/1721.1/118674/1057362115-MIT.pdf?sequence=1)
 + Incorporating Differential Equations into Mixed-Integer Programming for Gas Transport Optimization, [Mathias Sirvent](https://www.university-press.fau.de/en/product/978-3-96147-113-3/)
 + Integer and Mixed-Integer Reformulations of Stochastic, Resource-Constrained, and Quadratic Matching Problems, [Lena Maria Hupp](https://d-nb.info/1156461545/34)
 + Linear and quadratic reformulations of nonlinear optimization problems in binary variables, [Elisabeth Rodriguez Heck](https://www.or.rwth-aachen.de/files/research/theses/2018/These_RodriguezHeck_20180711.pdf)

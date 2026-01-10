@@ -131,6 +131,10 @@
 + Randomized Approximation and Online Algorithms for Assignment Problems, [Marco Bender](https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0022-6016-2)
 
 
+## 2014
++ Application of Integer Quadratic Programming to Detection of High-Dimensional Wireless Systems, [Jamal Yousuf Alsawalhi](https://docs.lib.purdue.edu/open_access_dissertations/220/)
+
+
 ## 2013
 + Parallel solution of linear programs, [Edmund Smith](https://era.ed.ac.uk/items/905b6a2f-6e1b-4c7b-80e4-0b4c2b4151fb)
 

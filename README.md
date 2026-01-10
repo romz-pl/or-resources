@@ -21,6 +21,7 @@
 + [EURO: Association of European Operational Research Societies](https://www.euro-online.org/)
 + [INFORMS: Institute for Operations Research and the Management Sciences](https://www.informs.org/)
 + [Mathematical Optimization Society](https://www.mathopt.org/)
++ [Operational Research Society](https://www.theorsociety.com/)
 + [Optimization Online](https://optimization-online.org/)
 + [SIAM: Society for Industrial and Applied Mathematics](https://www.siam.org/)
 

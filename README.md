@@ -17,6 +17,10 @@
 [Journals in alphabetical order](./journals/README.md)
 
 
+## Society
++ [Mathematical Optimization Society](https://www.mathopt.org/)
+
+
 ## Software
 + [CPLEX articles](./software/cplex/README.md)
 + [Gurobi articles](./software/gurobi/README.md)

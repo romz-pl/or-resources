@@ -135,6 +135,7 @@
 + Application of Integer Quadratic Programming to Detection of High-Dimensional Wireless Systems, [Jamal Yousuf Alsawalhi](https://docs.lib.purdue.edu/open_access_dissertations/220/)
 + Integer programming approaches for semicontinuous and stochastic optimization, [Gustavo I. Angulo Olivares](https://repository.gatech.edu/entities/publication/d75bf5df-2f56-4c79-beff-52aac4c61065)
 + Mixed-integer programming approaches for some non-convex and combinatorial optimization problems, [Srikrishna Sridhar](https://search.library.wisc.edu/digital/AYXD2LCIF4VWUK8O)
++ Mixed-integer programming methods for transportation and power generation problems, [Pelin Damcı Kurt](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1399019482&disposition=inline)
 + Polyhedral Study of Mixed Integer Sets Arising from Inventory Problems, [Mahdi Doostmohammadi](https://pureportal.strath.ac.uk/en/publications/polyhedral-study-of-mixed-integer-sets-arising-from-inventory-pro/)
 + Topics in linear and nonlinear discrete optimization, [Andriy Shapoval](https://repository.gatech.edu/entities/publication/83aef197-ebdc-4369-a74f-f396da8db32d)
 + Stochastic Optimization for Integrated Energy System with Reliability Improvement Using Decomposition Algorithm, [Yuping Huang](https://stars.library.ucf.edu/etd/4812/)

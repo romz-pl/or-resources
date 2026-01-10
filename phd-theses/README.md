@@ -125,6 +125,7 @@
 + Exploiting Mathematical Structure in Optimization Problems with Indicator Variables, [Hyemin Jeon](https://search.library.wisc.edu/digital/A7DJWPPLP3DVZX82)
 + Integer Programming Approaches to Stochastic Games Arising in Paired Kidney Exchange and Industrial Organization, [Amin Dehghanian](https://d-scholarship.pitt.edu/25672/)
 + Mixed-integer optimization approaches to resource allocation problems with applications in healthcare asset management and epidemics, [Emmanuel Des Bordes](https://soar.wichita.edu/items/8f130264-2cac-463c-baeb-f44e31efa3c0)
++ Randomized Approximation and Online Algorithms for Assignment Problems, [Marco Bender](https://ediss.uni-goettingen.de/handle/11858/00-1735-0000-0022-6016-2)
 
 
 ## 2013

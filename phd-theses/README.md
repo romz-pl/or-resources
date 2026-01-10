@@ -140,6 +140,7 @@
 + Polyhedral Study of Mixed Integer Sets Arising from Inventory Problems, [Mahdi Doostmohammadi](https://pureportal.strath.ac.uk/en/publications/polyhedral-study-of-mixed-integer-sets-arising-from-inventory-pro/)
 + Topics in linear and nonlinear discrete optimization, [Andriy Shapoval](https://repository.gatech.edu/entities/publication/83aef197-ebdc-4369-a74f-f396da8db32d)
 + Stochastic Optimization for Integrated Energy System with Reliability Improvement Using Decomposition Algorithm, [Yuping Huang](https://stars.library.ucf.edu/etd/4812/)
++ Structure Learning of Bayesian Networks with Bounded Treewidth Using Mixed Integer Linear Programming, [Max Engardt](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A742119&dswid=4727)
 
 
 ## 2013

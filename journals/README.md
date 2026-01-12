@@ -39,6 +39,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## J
 + [Journal of Advanced Transportation](https://onlinelibrary.wiley.com/journal/1409)
++ [Journal of Air Transportation](https://arc.aiaa.org/journal/jat)
 + [Journal of Air Transport Management](https://www.sciencedirect.com/journal/journal-of-air-transport-management)
 + [Journal of Combinatorial Optimization](https://link.springer.com/journal/10878)
 + [Journal of Computing and System Science](https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences)

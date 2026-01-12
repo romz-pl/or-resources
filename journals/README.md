@@ -90,6 +90,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## T
 + [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
++ [Transportation Planning and Technology](https://www.tandfonline.com/journals/gtpt20)
 + [Transportation Research Part A: Policy and Practice](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
 + [Transportation Research Part B: Methodological](https://www.sciencedirect.com/journal/transportation-research-part-b-methodological)
 + [Transportation Research Part C: Emerging Technologies](https://www.sciencedirect.com/journal/transportation-research-part-c-emerging-technologies)

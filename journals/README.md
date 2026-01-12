@@ -32,6 +32,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## I
++ [IISE Transactions](https://www.tandfonline.com/journals/uiie21)
 + [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/journal/ijaa)
 + [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
 + [International Transactions in Operational Research](https://onlinelibrary.wiley.com/journal/14753995)

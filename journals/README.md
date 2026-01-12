@@ -79,6 +79,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## R
 + [RAIRO - Operations Research](https://www.rairo-ro.org/)
++ [Research in Transportation Business & Management](https://www.sciencedirect.com/journal/research-in-transportation-business-and-management)
 
 
 ## S

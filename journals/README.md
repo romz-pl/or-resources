@@ -16,6 +16,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Computational Optimization and Applications](https://link.springer.com/journal/10589)
 + [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 + [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)
++ [Computing](https://link.springer.com/journal/607)
 
 
 ## D

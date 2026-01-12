@@ -37,6 +37,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 ## I
 + [IEEE Transactions on Evolutionary Computation](https://cis.ieee.org/publications/t-evolutionary-computation)
 + [IEEE Transactions on Intelligent Transportation Systems](https://ieee-itss.org/pub/t-its/)
++ [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 + [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578)
 + [IISE Transactions](https://www.tandfonline.com/journals/uiie21)
 + [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/journal/ijaa)

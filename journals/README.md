@@ -101,6 +101,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## T
 + [TOP: Transactions in Operations Research](https://link.springer.com/journal/11750)
++ [Transport Reviews](https://www.tandfonline.com/journals/ttrv20)
 + [Transportation Journal](https://onlinelibrary.wiley.com/journal/2157328x)
 + [Transportation Planning and Technology](https://www.tandfonline.com/journals/gtpt20)
 + [Transportation Science](https://pubsonline.informs.org/journal/trsc)

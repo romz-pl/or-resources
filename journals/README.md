@@ -93,6 +93,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## S
++ [Scientifc Reports](https://www.nature.com/srep/)
 + [SIAM Journal on Applied Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-applied-mathematics/)
 + [SIAM Journal on Computing](https://epubs.siam.org/journal/smjcat)
 + [SIAM Journal on Discrete Mathematics](https://www.siam.org/publications/siam-journals/siam-journal-on-discrete-mathematics/)

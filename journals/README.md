@@ -19,6 +19,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## D
++ [Decision Sciences](https://onlinelibrary.wiley.com/journal/15405915)
 + [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics)
 + [Discrete Mathematics](https://www.sciencedirect.com/journal/discrete-mathematics)
 + [Discrete Optimization](https://www.sciencedirect.com/journal/discrete-optimization)

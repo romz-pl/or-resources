@@ -111,6 +111,7 @@ To find PhD theses from a wide range of subjects, I recommend [**ProQuest Disser
 + Relaxations and Approximations of Chance Constrained Stochastic Programs, [Weijun Xie](https://repository.gatech.edu/server/api/core/bitstreams/a392c544-f5ca-4c8b-8a05-7807f469249e/content)
 + Representability in Mixed Integer Quadratic Programming, [Jeff Poskin](https://search.library.wisc.edu/digital/AFS2QHLPBIBVBV9B)
 + Sparsity in integer programming, [Andres Iroume](https://repository.gatech.edu/entities/publication/d2bbe6a4-4bba-4ab0-b699-15689c4a7bc1)
++ Strategic, Tactical and Operational University Timetabling, [Michael Lindahl](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)
 
 
 ## 2016

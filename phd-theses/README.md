@@ -197,6 +197,7 @@ To find PhD theses from a wide range of subjects, I recommend [**ProQuest Disser
 ## 2002
 + Airline fleet assignment and schedule design: integrated models and algorithms, [Manoj Lohatepanont](https://dspace.mit.edu/handle/1721.1/8297)
 + Coordination and control of UAV fleets using mixed-integer linear programming, [John Saunders Bellingham](https://dspace.mit.edu/handle/1721.1/82252)
++ School timetable construction: Algorithms and complexity, [Roy Willemen](https://alexandria.tue.nl/extra2/200211248.pdf)
 + Trajectory optimization using mixed-integer linear programming, [Arthur George Richards](https://dspace.mit.edu/handle/1721.1/16873)
 
 

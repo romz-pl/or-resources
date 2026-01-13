@@ -57,13 +57,12 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Journal of Computing and System Science](https://www.sciencedirect.com/journal/journal-of-computer-and-system-sciences)
 + [Journal of Global Optimization](https://link.springer.com/journal/10898)
 + [Journal of Heuristics](https://link.springer.com/journal/10732)
-+ [Journal of the Operational Research Society](https://www.tandfonline.com/journals/tjor20)
 + [Journal of Optimization Theory and Applications](https://link.springer.com/journal/10957)
 + [Journal of Research of the National Bureau of Standards](https://www.nist.gov/nist-research-library/journal-research-nist/about-journal)
 + [Journal of Scheduling](https://link.springer.com/journal/10951)
 + [Journal of Transport Geography](https://www.sciencedirect.com/journal/journal-of-transport-geography)
 + [Journal of the ACM](https://dl.acm.org/journal/jacm)
-+ [Journal of the operational research society](https://www.tandfonline.com/journals/tjor20)
++ [Journal of the Operational Research Society](https://www.tandfonline.com/journals/tjor20)
 
 
 ## M

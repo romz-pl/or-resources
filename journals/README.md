@@ -13,6 +13,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 ## C
 + [Canadian Journal of Mathematics](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics)
 + [Combinatorica](https://link.springer.com/journal/493)
++ [Communications of the ACM](https://cacm.acm.org/)
 + [Computational Optimization and Applications](https://link.springer.com/journal/10589)
 + [Computers & Industrial Engineering](https://www.sciencedirect.com/journal/computers-and-industrial-engineering)
 + [Computers & Operations Research](https://www.sciencedirect.com/journal/computers-and-operations-research)

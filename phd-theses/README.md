@@ -106,6 +106,7 @@ To find PhD theses from a wide range of subjects, I recommend [**ProQuest Disser
 + Exploiting structure in non-convex quadratic optimization and gas network planning under uncertainty, [Jonas Schweiger ](https://opus4.kobv.de/opus4-zib/frontdoor/deliver/index/docId/6947/file/ZR-18-35.pdf)
 + Integer Polynomial Optimization in Fixed Dimension, [Kevin Zemmer](https://www.research-collection.ethz.ch/entities/publication/d37af574-5420-42e3-b6fa-f8ca74c15de2)
 + Large scale multistage stochastic integer programming with applications in electric power systems, [Jikai Zou](https://repository.gatech.edu/entities/publication/5f0a3165-39ba-4863-b320-01e23235e35a)
++ Mathematical Programming Approaches for Optimal University Timetabling, [Niels-Christian Fink Bagger](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
 + Mixed-integer optimal control of fast dynamical systems, [Bartolomeo Stellato](https://ora.ox.ac.uk/objects/uuid%253Ab8a7323c-e36e-45ec-ae8d-6c9eb4350629)
 + Optimal Bidding Strategy for a Strategic Power Producer Using Mixed Integer Programming, [Sayed Abdullah Sadat](https://digitalcommons.usf.edu/etd/6631/)
 + Relaxations and Approximations of Chance Constrained Stochastic Programs, [Weijun Xie](https://repository.gatech.edu/server/api/core/bitstreams/a392c544-f5ca-4c8b-8a05-7807f469249e/content)

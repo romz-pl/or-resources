@@ -18,6 +18,10 @@
 + Symmetry Detection in Integer Linear Programs, [James A. Ostrowski](https://trace.tennessee.edu/utk_gradthes/3406/)
 
 
+## 2013
++ A Study of Genetic Algorithms for Solving the School Timetabling Problem, [Rushil Raghavjee](https://www.cs.up.ac.za/cs/nicog/masters/Raghavjee.pdf)
+
+
 ## 2010
 + Generic Branch-Cut-and-Price, [Gerald Gamrath](https://www.zib.de/userpage/gamrath/publications/gamrath2010_genericBCP.pdf)
 

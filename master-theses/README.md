@@ -8,6 +8,10 @@
 + Using an integer programming approach to solve examination timetabling problems, [Stijn Theeuwen](https://pure.tue.nl/ws/portalfiles/portal/305653773/Theeuwen_S.pdf)
 
 
+## 2021
++ Solving a highly constrained Dutch school timetabling problem, [Wesley Enrico Jacobs](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/39490/Thesis.pdf)
+
+
 ## 2019
 + Analyzing the Improvement Potential of Workforce Scheduling with Focus on the Planning Process and Caregiver Continuity: A Case Study of a Swedish Home Care Planning System, [Enkhzul Uyanga, Lida Wang](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1349671&dswid=-7094)
 + Exact Combinatorial Optimization with Graph Convolutional Neural Networks, [Nicola Ferroni](https://amslaurea.unibo.it/id/eprint/17502/)

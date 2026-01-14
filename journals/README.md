@@ -7,6 +7,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 
 ## A
++ [Annals of Mathematics and Artificial Intelligence](https://link.springer.com/journal/10472)
 + [Annals of Operations Research](https://link.springer.com/journal/10479)
 + [Artificial Intelligence Review](https://link.springer.com/journal/10462)
 

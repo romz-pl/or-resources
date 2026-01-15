@@ -121,3 +121,4 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [Transportation Research Part E: Logistics and Transportation Review](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review)
 + [Transportation Science](https://pubsonline.informs.org/journal/trsc)
 + [The Computer Journal](https://academic.oup.com/comjnl)
++ [The Journal of the Operational Research Society](https://www.jstor.org/journal/joperresesoci)

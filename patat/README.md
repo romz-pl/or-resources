@@ -22,11 +22,11 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## Cross-domain Heuristic Search Challenge (CHeSC 2011)
-+ [CHeSC 2011 homepage](https://www.asap.cs.nott.ac.uk/external/chesc2011/) (link does not work!)
++ [CHeSC 2011 homepage](https://people.cs.nott.ac.uk/pszwj1/chesc2011/)
 
 
 ## The Third International Timetabling Competition (ITC2011)
-+ [ITC2011 homepage](https://www.utwente.nl/en/digital-society/) (link to The University of Twente)
++ [ITC2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)

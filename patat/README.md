@@ -5,13 +5,13 @@ The International Series of Conferences on the Practice and Theory of Automated 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 
 ## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-ongoing)
-+ [IHTC 2024 homepage](https://ihtc2024.github.io/)
+**Integrated Healthcare Timetabling**, [IHTC 2024 homepage](https://ihtc2024.github.io/)
 
 
 
 
 ## The Fifth International Timetabling Competition (ITC 2021) (2020-2021)
-+ **Sports Timetabling**, [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
+**Sports Timetabling**, [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
 
 ### 2024
 + Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021, [Annals of Operations Research](https://doi.org/10.1007/s10479-024-06285-x)
@@ -38,7 +38,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
-+ **University Course Timetabling**, [ITC 2019 homepage](https://www.itc2019.org/home)
+**University Course Timetabling**, [ITC 2019 homepage](https://www.itc2019.org/home)
 
 ### 2025
 + Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-023-00801-w)
@@ -79,7 +79,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Third International Timetabling Competition (ITC 2011)
-+ **High School Timetabling**, [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
+**High School Timetabling**, [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
 
 ### 2021
 + A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications](https://doi.org/10.1016/j.eswa.2020.113943)
@@ -111,7 +111,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Second International Timetabling Competition (ITC 2007)
-+ **Educational Timetabling**, [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
+**Educational Timetabling**, [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
 
 ### 2019
 + Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning](https://doi.org/10.1007/978-3-030-03577-8_2)

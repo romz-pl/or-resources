@@ -11,7 +11,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Fifth International Timetabling Competition (ITC 2021) (2020-2021)
-+ [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
++ Sports Timetabling [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
 
 ### 2024
 + Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021, [Annals of Operations Research](https://doi.org/10.1007/s10479-024-06285-x)
@@ -30,8 +30,11 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ### 2021
-+ MILP Based Approaches for Scheduling Double Round-Robin Tournaments, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021: Volume II](https://www.patatconference.org/patat2020/proceedings/papers/37.ITC2021_paper3.pdf)
-+ MILP. Try. Repeat. Computing solutions to the ITC 2021 instances by repeated massive parallel MILP computations, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021: Volume II](https://www.patatconference.org/patat2020/proceedings/papers/35.ITC2021_paper1.pdf)
++ MILP Based Approaches for Scheduling Double Round-Robin Tournaments, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://www.patatconference.org/patat2020/proceedings/papers/37.ITC2021_paper3.pdf)
++ MILP. Try. Repeat. Computing solutions to the ITC 2021 instances by repeated massive parallel MILP computations, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://www.patatconference.org/patat2020/proceedings/papers/35.ITC2021_paper1.pdf)
++ The Fifth International Timetabling Competition (ITC 2021): Sports Timetabling, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_26.pdf)
+
+
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)

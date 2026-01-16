@@ -41,6 +41,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Second International Timetabling Competition (ITC 2007)
 + [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
++ Quality recovering of university timetables, [European Journal of Operational Research, 2019](https://doi.org/10.1016/j.ejor.2019.01.026)
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)

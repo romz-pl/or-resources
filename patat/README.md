@@ -1,4 +1,6 @@
-# Articles and reports for PATAT: Practice and Theory of Automated Timetabling
+# Articles and reports for PATAT
+
+PATAT = Practice and Theory of Automated Timetabling
 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 

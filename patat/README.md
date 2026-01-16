@@ -102,17 +102,31 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Second International Timetabling Competition (ITC 2007)
 + [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
-+ Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning, 2019](https://doi.org/10.1007/978-3-030-03577-8_2)
-+ Quality recovering of university timetables, [European Journal of Operational Research, 2019](https://doi.org/10.1016/j.ejor.2019.01.026)
-+ A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
-+ Strategic, Tactical and Operational University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)
-+ Mathematical Programming Approaches for Optimal University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
-+ Real-life examination timetabling, [Journal of Scheduling, 2016](https://doi.org/10.1007/s10951-014-0391-z)
-+ A review of hyper-heuristics for educational timetabling, [Annals of Operations Research, 2014](https://doi.org/10.1007/s10479-014-1688-1)
-+ An overview of curriculum-based course timetabling, [TOP, 2015](https://doi.org/10.1007/s11750-015-0366-z)
-+ A survey of school timetabling research, [Annals of Operations Research, 2014](https://doi.org/10.1007/s10479-013-1321-8)
-+ Educational Timetabling, [Chapter of the book, Automated Scheduling and Planning, 2013](https://doi.org/10.1007/978-3-642-39304-4_4)
+
+### 2019
++ Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning](https://doi.org/10.1007/978-3-030-03577-8_2)
++ Quality recovering of university timetables, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2019.01.026)
+
+### 2017
++ Strategic, Tactical and Operational University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)
++ Mathematical Programming Approaches for Optimal University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
+
+### 2016
++ Real-life examination timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0391-z)
+
+### 2015
++ An overview of curriculum-based course timetabling, [TOP](https://doi.org/10.1007/s11750-015-0366-z)
+
+### 2014
++ A review of hyper-heuristics for educational timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-014-1688-1)
++ A survey of school timetabling research, [Annals of Operations Research](https://doi.org/10.1007/s10479-013-1321-8)
+
+### 2013
++ Educational Timetabling, [Chapter of the book, Automated Scheduling and Planning](https://doi.org/10.1007/978-3-642-39304-4_4)
 + A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
+
+### 2007
++ A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
 
 
 

@@ -87,6 +87,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 ## O
 + [Operations Research](https://pubsonline.informs.org/journal/opre)
 + [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)
++ [Operations Research Perspectives](https://www.sciencedirect.com/journal/operations-research-perspectives)
 + [Optimization Letters](https://link.springer.com/journal/115900)
 + [OR Spectrum: Quantitative Approaches in Management](https://link.springer.com/journal/291)
 + [ORiON: Operations Research Society of South Africa](https://journals.co.za/journal/orion)

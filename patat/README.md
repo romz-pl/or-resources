@@ -7,6 +7,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-ongoing)
 **Integrated Healthcare Timetabling**, [IHTC 2024 homepage](https://ihtc2024.github.io/)
 
+### 2025
++ The Integrated Healthcare Timetabling competition 2024, [Operations Research, Data Analytics and Logistics](https://doi.org/10.1016/j.ordal.2025.200481)
+
 
 
 

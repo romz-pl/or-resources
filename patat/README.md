@@ -52,6 +52,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Mathematical Programming Approaches for Optimal University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
 + Real-life examination timetabling, [Journal of Scheduling, 2016](https://doi.org/10.1007/s10951-014-0391-z)
 + A review of hyper-heuristics for educational timetabling, [Annals of Operations Research, 2014](https://doi.org/10.1007/s10479-014-1688-1)
++ An overview of curriculum-based course timetabling, [TOP, 2015](https://doi.org/10.1007/s11750-015-0366-z)
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)

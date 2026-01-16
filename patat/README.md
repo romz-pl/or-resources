@@ -38,6 +38,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A Strategic View of University Timetabling, [European Journal of Operational Research, 2018](https://doi.org/10.1016/j.ejor.2017.09.022)
 + Integer Programming Techniques for Educational Timetabling, [European Journal of Operational Research, 2017](https://doi.org/10.1016/j.ejor.2017.03.020)
 + A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research, 2016](https://doi.org/10.1016/j.ejor.2016.07.002)
++ Integer programming for the generalized high school timetabling problem, [Journal of Scheduling, 2014](https://doi.org/10.1007/s10951-014-0405-x)
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)

@@ -10,6 +10,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Fifth International Timetabling Competition (ITC 2021) (2020-2021)
 + [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
++ A. Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021, [Annals of Operations Research, 2024](https://doi.org/10.1007/s10479-024-06285-x)
 + Educational timetabling: Problems, benchmarks, and state-of-the-art results, [European Journal of Operational Research, 2023](https://doi.org/10.1016/j.ejor.2022.07.011)
 + The international timetabling competition on sports timetabling (ITC2021), [European Journal of Operational Research, 2023](https://doi.org/10.1016/j.ejor.2022.11.046)
 

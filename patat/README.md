@@ -67,13 +67,13 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Second International Nurse Rostering Competition (INRC-II) (2014-2016)
-+ [INRC-II homepage](https://mobiz.vives.be/inrc2/)
+**Nurse Rostering**, [INRC-II homepage](https://mobiz.vives.be/inrc2/)
 
 
 
 
 ## Cross-domain Heuristic Search Challenge (CHeSC 2011)
-+ [CHeSC 2011 homepage](https://people.cs.nott.ac.uk/pszwj1/chesc2011/)
+**High Level Search Strategy**,  [CHeSC 2011 homepage](https://people.cs.nott.ac.uk/pszwj1/chesc2011/)
 
 
 
@@ -105,7 +105,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)
-+ [INRC-I homepage](https://nrpcompetition.kuleuven-kulak.be/)
+**Nurse Rostering**, [INRC-I homepage](https://nrpcompetition.kuleuven-kulak.be/)
 
 
 

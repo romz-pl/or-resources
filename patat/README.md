@@ -8,11 +8,13 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + [IHTC 2024 homepage](https://ihtc2024.github.io/)
 
 
+
+
 ## The Fifth International Timetabling Competition (ITC 2021) (2020-2021)
 + [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
 
 ### 2024
-+ A. Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021, [Annals of Operations Research](https://doi.org/10.1007/s10479-024-06285-x)
++ Efficient iterated local search based metaheuristic approach for solving sports timetabling problems of International Timetabling Competition 2021, [Annals of Operations Research](https://doi.org/10.1007/s10479-024-06285-x)
 + Which algorithm to select in sports timetabling?, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2024.06.005)
 
 ### 2023
@@ -23,27 +25,47 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A Pragmatic Approach for Solving the Sports Scheduling Problem, [Proc. 13th Int. Conf. Pract. Theory Autom. Timetabling](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_21.pdf)
 
 
+
+
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
 + [ITC 2019 homepage](https://www.itc2019.org/home)
-+ Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling, 2025](https://doi.org/10.1007/s10951-023-00801-w)
-+ Simulated annealing with penalization for university course timetabling, [Journal of Scheduling, 2023](https://doi.org/10.1007/s10951-022-00747-5)
-+ A graph-based MIP formulation of the International Timetabling Competition 2019, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-022-00724-y)
-+ A parallelized matheuristic for the International Timetabling Competition 2019, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-022-00728-8)
-+ A mixed-integer programming approach for solving university course timetabling problems, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-021-00715-5)
-+ A Cutting Plane Algorithm for the International Timetabling Competition 2019 Problem, [Repport, 2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/273636085/A_Cutting_Plane_Algorithm_for_the_International_Timetabling_Competition_2019_Problem.pdf)
-+ Mixed Integer Programming for University Timetabling, [PhD Thesis, 2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
-+ Application of Mixed Integer Programming Methods for Practical Educational Timetabling, [PhD Thesis, 2021](https://backend.orbit.dtu.dk/ws/portalfiles/portal/271654196/RasmusMikkelsen_PhD_Thesis.pdf)
-+ Introducing UniCorT: an iterative university course timetabling tool with MaxSAT, [ Journal of Scheduling, 2021](https://doi.org/10.1007/s10951-021-00695-6)
-+ A MIP Formulation of the International Timetabling Competition 2019 Problem, [Report, Technical University of Denmark, 2020](https://backend.orbit.dtu.dk/ws/portalfiles/portal/221992887/A_MIP_Formulation_of_the_International_Timetabling_Competition_2019_Problem.pdf)
+
+### 2025
++ Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-023-00801-w)
+
+### 2023
++ Simulated annealing with penalization for university course timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00747-5)
+
+### 2022
++ A graph-based MIP formulation of the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00724-y)
++ A parallelized matheuristic for the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00728-8)
++ A mixed-integer programming approach for solving university course timetabling problems, [Journal of Scheduling](https://doi.org/10.1007/s10951-021-00715-5)
++ A Cutting Plane Algorithm for the International Timetabling Competition 2019 Problem, [Repport,](https://backend.orbit.dtu.dk/ws/portalfiles/portal/273636085/A_Cutting_Plane_Algorithm_for_the_International_Timetabling_Competition_2019_Problem.pdf)
++ Mixed Integer Programming for University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
+
+### 2021
++ Application of Mixed Integer Programming Methods for Practical Educational Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/271654196/RasmusMikkelsen_PhD_Thesis.pdf)
++ Introducing UniCorT: an iterative university course timetabling tool with MaxSAT, [Journal of Scheduling](https://doi.org/10.1007/s10951-021-00695-6)
+
+### 2020
++ A MIP Formulation of the International Timetabling Competition 2019 Problem, [Report, Technical University of Denmark](https://backend.orbit.dtu.dk/ws/portalfiles/portal/221992887/A_MIP_Formulation_of_the_International_Timetabling_Competition_2019_Problem.pdf)
+
+### 2018
 + University course timetabling and International Timetabling Competition 2019, [Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2018)](https://www.itc2019.org/papers/itc2019-patat2018.pdf)
+
+
 
 
 ## The Second International Nurse Rostering Competition (INRC-II) (2014-2016)
 + [INRC-II homepage](https://mobiz.vives.be/inrc2/)
 
 
+
+
 ## Cross-domain Heuristic Search Challenge (CHeSC 2011)
 + [CHeSC 2011 homepage](https://people.cs.nott.ac.uk/pszwj1/chesc2011/)
+
+
 
 
 ## The Third International Timetabling Competition (ITC 2011)
@@ -58,8 +80,12 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research, 2014](http://dx.doi.org/10.1016/j.cor.2014.06.023)
 
 
+
+
 ## The First International Nurse Rostering Competition (INRC-I) (2010)
 + [INRC-I homepage](https://nrpcompetition.kuleuven-kulak.be/)
+
+
 
 
 ## The Second International Timetabling Competition (ITC 2007)
@@ -75,6 +101,8 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A survey of school timetabling research, [Annals of Operations Research, 2014](https://doi.org/10.1007/s10479-013-1321-8)
 + Educational Timetabling, [Chapter of the book, Automated Scheduling and Planning, 2013](https://doi.org/10.1007/978-3-642-39304-4_4)
 + A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
+
+
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)

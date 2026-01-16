@@ -23,6 +23,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ### 2022
 + A fix-and-optimize heuristic for the ITC2021 sports timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00738-6)
++ An Enhanced Particle Swarm Optimization for ITC2021 Sports Timetabling, [Computers, Materials & Continua](https://doi.org/10.32604/cmc.2022.025077)
 + A Pragmatic Approach for Solving the Sports Scheduling Problem, [Proc. 13th Int. Conf. Pract. Theory Autom. Timetabling](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_21.pdf)
 + Multi-neighborhood simulated annealing for the sports timetabling competition ITC2021, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00740-y)
 + Pseudo-Boolean optimisation for RobinX sports timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00737-7)

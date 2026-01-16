@@ -16,6 +16,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
 + [ITC 2019 homepage](https://www.itc2019.org/home)
 + Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling, 2025](https://doi.org/10.1007/s10951-023-00801-w)
++ Simulated annealing with penalization for university course timetabling, [Journal of Scheduling, 2023](https://doi.org/10.1007/s10951-022-00747-5)
 + A graph-based MIP formulation of the International Timetabling Competition 2019, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-022-00724-y)
 + A parallelized matheuristic for the International Timetabling Competition 2019, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-022-00728-8)
 + A mixed-integer programming approach for solving university course timetabling problems, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-021-00715-5)

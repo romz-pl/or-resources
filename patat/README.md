@@ -37,6 +37,8 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + MILP. Try. Repeat. Computing solutions to the ITC 2021 instances by repeated massive parallel MILP computations, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://www.patatconference.org/patat2020/proceedings/papers/35.ITC2021_paper1.pdf)
 + The Fifth International Timetabling Competition (ITC 2021): Sports Timetabling, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_26.pdf)
 
+### 2013
++ Sports scheduling: Problems and applications, [International Transactions in Operational Research](https://doi.org/10.1111/j.1475-3995.2011.00819.x)
 
 ### 2006
 + Round robin scheduling - a survey, [Technical report, Carnegie Mellon University](https://mat.tepper.cmu.edu/trick/survey.pdf)

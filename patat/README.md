@@ -38,6 +38,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications, 2021](https://doi.org/10.1016/j.eswa.2020.113943)
 + Optimization in timetabling in schools using a mathematical model, local search and Iterated Local Search procedures, [Gestão & Produção, 2019](https://doi.org/10.1590/0104-530X3241-19)
 + A Strategic View of University Timetabling, [European Journal of Operational Research, 2018](https://doi.org/10.1016/j.ejor.2017.09.022)
++ A fix-and-optimize matheuristic for university timetabling, [Journal of Heuristics, 2018](https://doi.org/10.1007/s10732-018-9371-3)
 + Integer Programming Techniques for Educational Timetabling, [European Journal of Operational Research, 2017](https://doi.org/10.1016/j.ejor.2017.03.020)
 + A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research, 2016](https://doi.org/10.1016/j.ejor.2016.07.002)
 + Integer programming for the generalized high school timetabling problem, [Journal of Scheduling, 2014](https://doi.org/10.1007/s10951-014-0405-x)

@@ -22,7 +22,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## Cross-domain Heuristic Search Challenge (CHeSC 2011)
-+ [CHeSC 2011 homepage (does not work!)](https://www.asap.cs.nott.ac.uk/external/chesc2011/)
++ [CHeSC 2011 homepage](https://www.asap.cs.nott.ac.uk/external/chesc2011/) (link does not work!)
 
 
 ## The Third International Timetabling Competition (ITC2011)
@@ -38,5 +38,5 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The First International Timetabling Competition (ITC2002) (2002-2003)
-+ [ITC2002 homepage (does not work!)](https://sferics.idsia.ch/Files/ttcomp2002/?)
++ [ITC2002 homepage](https://sferics.idsia.ch/Files/ttcomp2002/?) (link does not work!)
 

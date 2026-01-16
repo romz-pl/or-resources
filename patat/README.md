@@ -56,6 +56,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
 + Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning, 2019](https://doi.org/10.1007/978-3-030-03577-8_2)
 + Quality recovering of university timetables, [European Journal of Operational Research, 2019](https://doi.org/10.1016/j.ejor.2019.01.026)
++ A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
 + Strategic, Tactical and Operational University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)
 + Mathematical Programming Approaches for Optimal University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
 + Real-life examination timetabling, [Journal of Scheduling, 2016](https://doi.org/10.1007/s10951-014-0391-z)

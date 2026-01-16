@@ -23,6 +23,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A Cutting Plane Algorithm for the International Timetabling Competition 2019 Problem, [Repport, 2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/273636085/A_Cutting_Plane_Algorithm_for_the_International_Timetabling_Competition_2019_Problem.pdf)
 + Mixed Integer Programming for University Timetabling, [PhD Thesis, 2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 + Application of Mixed Integer Programming Methods for Practical Educational Timetabling, [PhD Thesis, 2021](https://backend.orbit.dtu.dk/ws/portalfiles/portal/271654196/RasmusMikkelsen_PhD_Thesis.pdf)
++ Introducing UniCorT: an iterative university course timetabling tool with MaxSAT, [ Journal of Scheduling, 2021](https://doi.org/10.1007/s10951-021-00695-6)
 + A MIP Formulation of the International Timetabling Competition 2019 Problem, [Report, Technical University of Denmark, 2020](https://backend.orbit.dtu.dk/ws/portalfiles/portal/221992887/A_MIP_Formulation_of_the_International_Timetabling_Competition_2019_Problem.pdf)
 + University course timetabling and International Timetabling Competition 2019, [Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT 2018)](https://www.itc2019.org/papers/itc2019-patat2018.pdf)
 

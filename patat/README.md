@@ -1,6 +1,6 @@
 # Articles and reports for PATAT
 
-PATAT = Practice and Theory of Automated Timetabling
+The International Series of Conferences on the Practice and Theory of Automated Timetabling (PATAT) is held biennially that serve as a forum for an international community of researchers, practitioners and vendors on all aspects of computer-aided timetable generation. 
 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 

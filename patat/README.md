@@ -26,7 +26,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The Third International Timetabling Competition (ITC2011)
-+ [ITC2011 homepage](https://www.utwente.nl/en/digital-society/)
++ [ITC2011 homepage](https://www.utwente.nl/en/digital-society/) (link to The University of Twente)
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)

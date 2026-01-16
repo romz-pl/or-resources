@@ -32,6 +32,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## E
 + [Econometrica](https://onlinelibrary.wiley.com/journal/14680262)
++ [Engineering Optimization](https://www.tandfonline.com/journals/geno20)
 + [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)
 + [EURO Journal on Transportation and Logistics](https://www.sciencedirect.com/journal/euro-journal-on-transportation-and-logistics)
 + [European Journal of Operations Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)

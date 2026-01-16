@@ -4,7 +4,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 
-## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-ongoing)
+## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-2025)
 **Integrated Healthcare Timetabling**, [IHTC 2024 homepage](https://ihtc2024.github.io/)
 
 ### 2025

@@ -40,7 +40,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A graph-based MIP formulation of the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00724-y)
 + A parallelized matheuristic for the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00728-8)
 + A mixed-integer programming approach for solving university course timetabling problems, [Journal of Scheduling](https://doi.org/10.1007/s10951-021-00715-5)
-+ A Cutting Plane Algorithm for the International Timetabling Competition 2019 Problem, [Repport,](https://backend.orbit.dtu.dk/ws/portalfiles/portal/273636085/A_Cutting_Plane_Algorithm_for_the_International_Timetabling_Competition_2019_Problem.pdf)
++ A Cutting Plane Algorithm for the International Timetabling Competition 2019 Problem, [Report,](https://backend.orbit.dtu.dk/ws/portalfiles/portal/273636085/A_Cutting_Plane_Algorithm_for_the_International_Timetabling_Competition_2019_Problem.pdf)
 + Mixed Integer Programming for University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 
 ### 2021
@@ -70,14 +70,26 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Third International Timetabling Competition (ITC 2011)
 + [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
-+ A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications, 2021](https://doi.org/10.1016/j.eswa.2020.113943)
-+ Optimization in timetabling in schools using a mathematical model, local search and Iterated Local Search procedures, [Gestão & Produção, 2019](https://doi.org/10.1590/0104-530X3241-19)
-+ A Strategic View of University Timetabling, [European Journal of Operational Research, 2018](https://doi.org/10.1016/j.ejor.2017.09.022)
-+ A fix-and-optimize matheuristic for university timetabling, [Journal of Heuristics, 2018](https://doi.org/10.1007/s10732-018-9371-3)
-+ Integer Programming Techniques for Educational Timetabling, [European Journal of Operational Research, 2017](https://doi.org/10.1016/j.ejor.2017.03.020)
-+ A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research, 2016](https://doi.org/10.1016/j.ejor.2016.07.002)
-+ Integer programming for the generalized high school timetabling problem, [Journal of Scheduling, 2014](https://doi.org/10.1007/s10951-014-0405-x)
-+ A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research, 2014](http://dx.doi.org/10.1016/j.cor.2014.06.023)
+
+### 2021
++ A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications](https://doi.org/10.1016/j.eswa.2020.113943)
+
+### 2019
++ Optimization in timetabling in schools using a mathematical model, local search and Iterated Local Search procedures, [Gestão & Produção](https://doi.org/10.1590/0104-530X3241-19)
+
+### 2018
++ A Strategic View of University Timetabling, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2017.09.022)
++ A fix-and-optimize matheuristic for university timetabling, [Journal of Heuristics](https://doi.org/10.1007/s10732-018-9371-3)
+
+### 2017
++ Integer Programming Techniques for Educational Timetabling, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2017.03.020)
+
+### 2016
++ A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2016.07.002)
+
+### 2014
++ Integer programming for the generalized high school timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0405-x)
++ A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research](http://dx.doi.org/10.1016/j.cor.2014.06.023)
 
 
 

@@ -10,14 +10,14 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Fifth International Timetabling Competition (ITC 2021) (2020-2021)
 + [ITC 2021 homepage](https://robinxval.ugent.be/ITC2021/)
-+ Educational timetabling: Problems, benchmarks, and state-of-the-art results, [2023](https://doi.org/10.1016/j.ejor.2022.07.011)
++ Educational timetabling: Problems, benchmarks, and state-of-the-art results, [European Journal of Operational Research, 2023](https://doi.org/10.1016/j.ejor.2022.07.011)
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
 + [ITC 2019 homepage](https://www.itc2019.org/home)
-+ Real-world university course timetabling at the International Timetabling Competition 2019, [2025](https://doi.org/10.1007/s10951-023-00801-w)
-+ A graph-based MIP formulation of the International Timetabling Competition 2019, [2022](https://doi.org/10.1007/s10951-022-00724-y)
-+ Mixed Integer Programming for University Timetabling, **PhD Thesis**, [2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
++ Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling, 2025](https://doi.org/10.1007/s10951-023-00801-w)
++ A graph-based MIP formulation of the International Timetabling Competition 2019, [Journal of Scheduling, 2022](https://doi.org/10.1007/s10951-022-00724-y)
++ Mixed Integer Programming for University Timetabling, [PhD Thesis, 2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 
 
 ## The Second International Nurse Rostering Competition (INRC-II) (2014-2016)

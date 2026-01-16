@@ -29,6 +29,10 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Pseudo-Boolean optimisation for RobinX sports timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00737-7)
 
 
+### 2021
++ MILP Based Approaches for Scheduling Double Round-Robin Tournaments, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021: Volume II](https://www.patatconference.org/patat2020/proceedings/papers/37.ITC2021_paper3.pdf)
++ MILP. Try. Repeat. Computing solutions to the ITC 2021 instances by repeated massive parallel MILP computations, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021: Volume II](https://www.patatconference.org/patat2020/proceedings/papers/35.ITC2021_paper1.pdf)
+
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
 + [ITC 2019 homepage](https://www.itc2019.org/home)

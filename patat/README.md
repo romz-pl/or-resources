@@ -17,7 +17,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + [ITC 2019 homepage](https://www.itc2019.org/home)
 + Real-world university course timetabling at the International Timetabling Competition 2019, [2025](https://doi.org/10.1007/s10951-023-00801-w)
 + A graph-based MIP formulation of the International Timetabling Competition 2019, [2022](https://doi.org/10.1007/s10951-022-00724-y)
-+ Mixed Integer Programming for University Timetabling, PhD Thesis, [2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
++ Mixed Integer Programming for University Timetabling, **PhD Thesis**, [2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 
 
 ## The Second International Nurse Rostering Competition (INRC-II) (2014-2016)
@@ -28,18 +28,19 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + [CHeSC 2011 homepage](https://people.cs.nott.ac.uk/pszwj1/chesc2011/)
 
 
-## The Third International Timetabling Competition (ITC2011)
-+ [ITC2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
+## The Third International Timetabling Competition (ITC 2011)
++ [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
++ A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications, 2021](https://doi.org/10.1016/j.eswa.2020.113943)
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)
 + [INRC-I homepage](https://nrpcompetition.kuleuven-kulak.be/)
 
 
-## The Second International Timetabling Competition (ITC2007)
-+ [ITC2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
+## The Second International Timetabling Competition (ITC 2007)
++ [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/)
 
 
-## The First International Timetabling Competition (ITC2002) (2002-2003)
-+ [ITC2002 homepage](https://sferics.idsia.ch/Files/ttcomp2002/?) (link does not work!)
+## The First International Timetabling Competition (ITC 2002) (2002-2003)
++ [ITC 2002 homepage](https://sferics.idsia.ch/Files/ttcomp2002/?) (link does not work!)
 

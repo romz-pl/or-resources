@@ -11,6 +11,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## [The Fourth International Timetabling Competition (ITC 2019) (2018-2020)](https://www.itc2019.org/home)
++ Real-world university course timetabling at the International Timetabling Competition 2019, [2025](https://doi.org/10.1007/s10951-023-00801-w)
 
 
 ## [The Second International Nurse Rostering Competition (2014-2016)](https://mobiz.vives.be/inrc2/)

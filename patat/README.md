@@ -33,6 +33,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## The Third International Timetabling Competition (ITC 2011)
 + [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
 + A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications, 2021](https://doi.org/10.1016/j.eswa.2020.113943)
++ Optimization in timetabling in schools using a mathematical model, local search and Iterated Local Search procedures, [Gestão & Produção, 2019](https://doi.org/10.1590/0104-530X3241-19)
 
 
 ## The First International Nurse Rostering Competition (INRC-I) (2010)

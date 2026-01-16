@@ -53,8 +53,8 @@
 
 ## PATAT: Practice and Theory of Automated Timetabling
 + [The International Series of Conferences on the Practice and Theory of Automated Timetabling](https://www.patatconference.org/index.html)
-+ [PATAT Community Support](https://www.patatconference.org/communityService.html)
-+ [List of articles and reports](./patat/README.md)
++ [Timetabling Competitions](https://www.patatconference.org/communityService.html)
++ [Articles and reports](./patat/README.md)
 
 
 <!--

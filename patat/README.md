@@ -38,6 +38,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + The Fifth International Timetabling Competition (ITC 2021): Sports Timetabling, [Proceedings of the 13th International Conference on the Practice and Theory of Automated Timetabling - PATAT 2021](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_26.pdf)
 
 
+### 2006
++ Round robin scheduling - a survey, [Technical report, Carnegie Mellon University](https://mat.tepper.cmu.edu/trick/survey.pdf)
+
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)

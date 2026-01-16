@@ -23,7 +23,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ### 2022
 + A Pragmatic Approach for Solving the Sports Scheduling Problem, [Proc. 13th Int. Conf. Pract. Theory Autom. Timetabling](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_21.pdf)
-
++ Pseudo-Boolean optimisation for RobinX sports timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-022-00737-7)
 
 
 

@@ -10,7 +10,8 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## [The Fifth International Timetabling Competition (ITC 2021) (2020-2021)](https://robinxval.ugent.be/ITC2021/)
 
 
-## [The Fourth International Timetabling Competition (ITC 2019) (2018-2020)](https://www.itc2019.org/home)
+## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
++ [ITC 2019 homepage](https://www.itc2019.org/home)
 + Real-world university course timetabling at the International Timetabling Competition 2019, [2025](https://doi.org/10.1007/s10951-023-00801-w)
 
 

@@ -35,7 +35,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [EURO Journal on Computational Optimization](https://www.sciencedirect.com/journal/euro-journal-on-computational-optimization)
 + [EURO Journal on Transportation and Logistics](https://www.sciencedirect.com/journal/euro-journal-on-transportation-and-logistics)
 + [European Journal of Operations Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)
-+ [Evolutionary Computation](
++ [Evolutionary Computation](https://direct.mit.edu/evco)
 + [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
 

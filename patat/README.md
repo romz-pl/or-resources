@@ -14,6 +14,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Which algorithm to select in sports timetabling?, [European Journal of Operational Research, 2024](https://doi.org/10.1016/j.ejor.2024.06.005)
 + Educational timetabling: Problems, benchmarks, and state-of-the-art results, [European Journal of Operational Research, 2023](https://doi.org/10.1016/j.ejor.2022.07.011)
 + The international timetabling competition on sports timetabling (ITC2021), [European Journal of Operational Research, 2023](https://doi.org/10.1016/j.ejor.2022.11.046)
++ A Pragmatic Approach for Solving the Sports Scheduling Problem, [Proc. 13th Int. Conf. Pract. Theory Autom. Timetabling, 2022](https://patatconference.org/patat2022/proceedings/PATAT_2022_paper_21.pdf)
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)

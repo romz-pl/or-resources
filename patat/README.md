@@ -16,6 +16,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
 + [ITC 2019 homepage](https://www.itc2019.org/home)
 + Real-world university course timetabling at the International Timetabling Competition 2019, [2025](https://doi.org/10.1007/s10951-023-00801-w)
++ A graph-based MIP formulation of the International Timetabling Competition 2019, [2022](https://doi.org/10.1007/s10951-022-00724-y)
 + Mixed Integer Programming for University Timetabling, PhD Thesis, [2022](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 
 

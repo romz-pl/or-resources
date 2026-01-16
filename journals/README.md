@@ -87,6 +87,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 
 ## O
 + [Operations Research](https://pubsonline.informs.org/journal/opre)
++ [Operations Research, Data Analytics and Logistics](https://www.sciencedirect.com/journal/operations-research-data-analytics-and-logistics)
 + [Operations Research Letters](https://www.sciencedirect.com/journal/operations-research-letters)
 + [Operations Research Perspectives](https://www.sciencedirect.com/journal/operations-research-perspectives)
 + [Opsearch: Operational Research Society of India](https://link.springer.com/journal/12597)

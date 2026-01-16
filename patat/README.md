@@ -50,6 +50,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Quality recovering of university timetables, [European Journal of Operational Research, 2019](https://doi.org/10.1016/j.ejor.2019.01.026)
 + Strategic, Tactical and Operational University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)
 + Mathematical Programming Approaches for Optimal University Timetabling, [PhD Thesis, 2017](https://backend.orbit.dtu.dk/ws/files/138514765/Niels_ChristianBaggerPhD.pdf)
++ Real-life examination timetabling, [Journal of Scheduling, 2016](https://doi.org/10.1007/s10951-014-0391-z)
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)

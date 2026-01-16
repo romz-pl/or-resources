@@ -45,6 +45,7 @@ The journals publishing articles on operations research cover a wide spectrum fr
 + [IEEE Transactions on Vehicular Technology](https://vtsociety.org/publication/ieee-transactions-vehicular-technology)
 + [IET Intelligent Transport Systems](https://ietresearch.onlinelibrary.wiley.com/journal/17519578)
 + [IISE Transactions](https://www.tandfonline.com/journals/uiie21)
++ [Information Sciences](https://www.sciencedirect.com/journal/information-sciences)
 + [INFORMS Journal on Applied Analytics](https://pubsonline.informs.org/journal/ijaa)
 + [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc)
 + [Interfaces](https://www.jstor.org/journal/interfaces)

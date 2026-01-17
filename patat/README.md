@@ -163,6 +163,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ### 2006
 + An effective hybrid algorithm for university course timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-006-8495-8)
 
+### 2005
++ The University Course Timetabling Problem with a Three-Phase Approach, [Practice and Theory of Automated Timetabling V. PATAT 2004](https://doi.org/10.1007/11593577_7)
+
 ### 2004
 + A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)
 

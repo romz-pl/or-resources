@@ -177,7 +177,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
 + The Second International Timetabling Competition (ITC-2007): Curriculum-based Course Timetabling (Track 3), [Technical Report](https://www.eeecs.qub.ac.uk/itc2007/curriculmcourse/report/curriculumtechreport.pdf)
 + The Second International Timetabling Competition(ITC-2007): Examination Timetabling Track, [Technical Report](https://www.researchgate.net/publication/229031370_The_Second_International_Timetabling_Competition_Examination_Timetabling_Track)
-
++ Post enrolment based course timetabling: A description of the problem model used for track two of the second international timetabling competition, [Technical Report](https://scispace.com/pdf/post-enrolment-based-course-timetabling-a-description-ofthe-1gkuu8hrbe.pdf)
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)
 **Simplified University Course Timetabling**, [ITC 2002 homepage](http://www.idsia.ch/Files/ttcomp2002/) (the link **http://www.idsia.ch/Files/ttcomp2002/** does not work!)

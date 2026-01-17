@@ -157,7 +157,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 + The articles of the [The 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/) are available on the web page **https://patatconference.org/patat2004/**
 
-+ The article [The University Course Timetabling Problem with a Three-Phase Approach](https://patatconference.org/patat2004/proceedings/251.ps) written by P. Kostuch describes the University Course Timetabling
++ The article [The University Course Timetabling Problem with a 3-Phase Approach](https://patatconference.org/patat2004/proceedings/251.ps) written by P. Kostuch describes the University Course Timetabling
 Problem.
 **Abstract**. This paper describes the University Course Timetabling
 Problem (UCTP) used in the International Timetabling Competition
@@ -167,6 +167,8 @@ The heuristic is divided into three phases: at ﬁrst, a feasible timetable
 is constructed, then Simulated Annealing (SA) is used to order the thus
 created time-slots optimally, and ﬁnally SA is used to swap individual
 events between time-slots to improve the solution quality.
+
++ The article **The University Course Timetabling Problem with a Three-Phase Approach** written by P. Kostuch was also publised in the book [Practice and Theory of Automated Timetabling V. PATAT 2004](https://doi.org/10.1007/11593577_7).
 
 
 ### 2010

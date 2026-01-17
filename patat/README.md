@@ -4,6 +4,13 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 
+## Proceedings
+
++ The 7th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2008)](https://patatconference.org/patat2008/)
++ The 6th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2006)](https://patatconference.org/patat2006/)
++ The 5th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2004)](https://patatconference.org/patat2004/)
+
+
 ## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-2025)
 **Integrated Healthcare Timetabling**, [IHTC 2024 homepage](https://ihtc2024.github.io/)
 
@@ -158,8 +165,6 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)
 + **Simplified University Course Timetabling**, [ITC 2002 homepage](http://www.idsia.ch/Files/ttcomp2002/) (the link **http://www.idsia.ch/Files/ttcomp2002/** does not work!)
-
-+ The articles of the [The 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/) are available on the web page **https://patatconference.org/patat2004/**
 
 + The article [The University Course Timetabling Problem with a 3-Phase Approach](https://patatconference.org/patat2004/proceedings/251.ps) written by P. Kostuch describes the University Course Timetabling
 Problem.

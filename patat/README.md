@@ -153,21 +153,27 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)
-**Simplified University Course Timetabling**, [ITC 2002 homepage](http://www.idsia.ch/Files/ttcomp2002/) (the link **http://www.idsia.ch/Files/ttcomp2002/** does not work!)
++ **Simplified University Course Timetabling**, [ITC 2002 homepage](http://www.idsia.ch/Files/ttcomp2002/) (the link **http://www.idsia.ch/Files/ttcomp2002/** does not work!)
 
-[PATAT 2004](https://patatconference.org/patat2004/), The 5th Conference on the Practice and Theory of Automated Timetabling
++ The articles of the [The 5th Conference on the Practice and Theory of Automated Timetabling]((https://patatconference.org/patat2004/) are available on the web page **https://patatconference.org/patat2004/**
+
++ The article [The University Course Timetabling Problem with a Three-Phase Approach](https://patatconference.org/patat2004/proceedings/251.ps) written by P. Kostuch describes the University Course Timetabling
+Problem:
+**Abstract**. This paper describes the University Course Timetabling
+Problem (UCTP) used in the International Timetabling Competition
+2003 organized by the Metaheuristics Network and presents a state-of-the-art heuristic approach towards the solution of the competition
+instances. It is a greatly improved version of the winning competition entry.
+The heuristic is divided into three phases: at ﬁrst, a feasible timetable
+is constructed, then Simulated Annealing (SA) is used to order the thus
+created time-slots optimally, and ﬁnally SA is used to swap individual
+events between time-slots to improve the solution quality.
+
 
 ### 2010
 + Towards a deterministic algorithm for the International Timetabling Competition, [Proceedings of the 17th International RCRA workshop (RCRA 2010)](https://ceur-ws.org/Vol-616/paper02.pdf)
 
 ### 2006
 + An effective hybrid algorithm for university course timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-006-8495-8)
-
-### 2005
-+ The University Course Timetabling Problem with a Three-Phase Approach, [Practice and Theory of Automated Timetabling V. PATAT 2004](https://doi.org/10.1007/11593577_7)
-
-### 2004
-+ A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)
 
 ### 2003
 + A Comparison of the Performance of Different Metaheuristics on the Timetabling Problem, [PATAT 2002, LNCS 2740](https://iridia.ulb.ac.be/mbiro/paperi/RosSamBir-etal2003patat.pdf)

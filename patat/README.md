@@ -180,6 +180,7 @@ events between time-slots to improve the solution quality.
 
 ### 2006
 + An effective hybrid algorithm for university course timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-006-8495-8)
++ Neighborhood Portfolio Approach for Local Search Applied to Timetabling Problems, [Journal of Mathematical Modelling and Algorithms](https://doi.org/10.1007/s10852-005-9032-z)
 
 ### 2003
 + A Comparison of the Performance of Different Metaheuristics on the Timetabling Problem, [PATAT 2002, LNCS 2740](https://iridia.ulb.ac.be/mbiro/paperi/RosSamBir-etal2003patat.pdf)

@@ -160,6 +160,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ### 2010
 + Towards a deterministic algorithm for the International Timetabling Competition, [Proceedings of the 17th International RCRA workshop (RCRA 2010)](https://ceur-ws.org/Vol-616/paper02.pdf)
 
+### 2006
++ An effective hybrid algorithm for university course timetabling, [Journal of Scheduling](https://doi.org/10.1007/s10951-006-8495-8)
+
 ### 2004
 + A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)
 

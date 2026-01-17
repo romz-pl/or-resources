@@ -145,6 +145,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Educational Timetabling, [Chapter of the book, Automated Scheduling and Planning](https://doi.org/10.1007/978-3-642-39304-4_4)
 + A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
 
+### 2010
++ Towards a deterministic algorithm for the International Timetabling Competition, [Proceedings of the 17th International RCRA workshop (RCRA 2010)](https://ceur-ws.org/Vol-616/paper02.pdf)
+
 ### 2007
 + A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
 + The Second International Timetabling Competition (ITC-2007): Curriculum-based Course Timetabling (Track 3), [Proceedings of the 1st International Workshop on Scheduling a Scheduling Competition (SSC 2007)](https://icaps07-satellite.icaps-conference.org/workshop4/paper06.pdf)
@@ -157,8 +160,6 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 [PATAT 2004](https://patatconference.org/patat2004/), The 5th Conference on the Practice and Theory of Automated Timetabling
 
-### 2020
-+ Towards a deterministic algorithm for the International Timetabling Competition, [Proceedings of the 17th International RCRA workshop (RCRA 2010)](https://ceur-ws.org/Vol-616/paper02.pdf)
 
 ### 2004
 + A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)

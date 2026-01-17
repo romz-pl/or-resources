@@ -96,7 +96,6 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Optimization in timetabling in schools using a mathematical model, local search and Iterated Local Search procedures, [Gestão & Produção](https://doi.org/10.1590/0104-530X3241-19)
 
 ### 2018
-+ A Strategic View of University Timetabling, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2017.09.022)
 + A fix-and-optimize matheuristic for university timetabling, [Journal of Heuristics](https://doi.org/10.1007/s10732-018-9371-3)
 
 ### 2017
@@ -124,6 +123,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ### 2019
 + Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning](https://doi.org/10.1007/978-3-030-03577-8_2)
 + Quality recovering of university timetables, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2019.01.026)
+
+### 2018
++ A Strategic View of University Timetabling, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2017.09.022)
 
 ### 2017
 + Strategic, Tactical and Operational University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/files/138593409/MLindahl_UniversityTimetabling.pdf)

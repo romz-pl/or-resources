@@ -153,7 +153,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)
-+ [ITC 2002 homepage](https://sferics.idsia.ch/Files/ttcomp2002/?) (link does not work!)
+**Simplified University Course Timetabling**, [ITC 2002 homepage](https://sferics.idsia.ch/Files/ttcomp2002/) (the link **https://sferics.idsia.ch/Files/ttcomp2002/** does not work!)
+
+[PATAT 2004](https://patatconference.org/patat2004/), The 5th Conference on the Practice and Theory of Automated Timetabling 
 
 ### 2004
 + A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)

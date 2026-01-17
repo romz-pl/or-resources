@@ -6,6 +6,15 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## Proceedings
 
++ The 15th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2026, postponed)](https://patatconference.org/patat2026/)
++ The 14th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2024, postponed)](https://patatconference.org/patat2024/)
++ The 13th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2022, postponed)](https://patatconference.org/patat2022/)
++ The 13th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2020, postponed)](https://patatconference.org/patat2020/)
++ The 12th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2018)](https://patatconference.org/patat2018/)
++ The 11th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2016)](https://patatconference.org/patat2016/)
++ The 10th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2014)](https://patatconference.org/patat2014/)
++ The 9th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2012)](https://patatconference.org/patat2012/)
++ The 8th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2010)](https://patatconference.org/patat2010/)
 + The 7th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2008)](https://patatconference.org/patat2008/)
 + The 6th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2006)](https://patatconference.org/patat2006/)
 + The 5th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2004)](https://patatconference.org/patat2004/)

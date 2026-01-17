@@ -147,7 +147,8 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ### 2007
 + A survey of metaheuristic-based techniques for University Timetabling problems, [OR Spectrum, 2007](https://doi.org/10.1007/s00291-007-0097-0)
-
++ The Second International Timetabling Competition (ITC-2007): Curriculum-based Course Timetabling (Track 3), [Proceedings of the 1st International Workshop on Scheduling a Scheduling Competition (SSC 2007)](https://icaps07-satellite.icaps-conference.org/workshop4/paper06.pdf)
++ The Second International Timetabling Competition (ITC-2007): Curriculum-based Course Timetabling (Track 3), [Technical Report](https://www.eeecs.qub.ac.uk/itc2007/curriculmcourse/report/curriculumtechreport.pdf)
 
 
 

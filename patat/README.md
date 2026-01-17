@@ -155,10 +155,10 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## The First International Timetabling Competition (ITC 2002) (2002-2003)
 + **Simplified University Course Timetabling**, [ITC 2002 homepage](http://www.idsia.ch/Files/ttcomp2002/) (the link **http://www.idsia.ch/Files/ttcomp2002/** does not work!)
 
-+ The articles of the [The 5th Conference on the Practice and Theory of Automated Timetabling]((https://patatconference.org/patat2004/) are available on the web page **https://patatconference.org/patat2004/**
++ The articles of the [The 5th Conference on the Practice and Theory of Automated Timetabling](https://patatconference.org/patat2004/) are available on the web page **https://patatconference.org/patat2004/**
 
 + The article [The University Course Timetabling Problem with a Three-Phase Approach](https://patatconference.org/patat2004/proceedings/251.ps) written by P. Kostuch describes the University Course Timetabling
-Problem:
+Problem.
 **Abstract**. This paper describes the University Course Timetabling
 Problem (UCTP) used in the International Timetabling Competition
 2003 organized by the Metaheuristics Network and presents a state-of-the-art heuristic approach towards the solution of the competition

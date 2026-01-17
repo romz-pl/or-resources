@@ -62,6 +62,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + Mixed Integer Programming for University Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/311617778/Mixed_Integer_Programming_for_University_Timetabling_Thesis_Dennis_Holm.pdf)
 
 ### 2021
++ A Survey of University Course Timetabling Problem: Perspectives, Trends and Opportunities, [IEEE Access](https://doi.org/10.1109/ACCESS.2021.3100613)
 + Application of Mixed Integer Programming Methods for Practical Educational Timetabling, [PhD Thesis](https://backend.orbit.dtu.dk/ws/portalfiles/portal/271654196/RasmusMikkelsen_PhD_Thesis.pdf)
 + Introducing UniCorT: an iterative university course timetabling tool with MaxSAT, [Journal of Scheduling](https://doi.org/10.1007/s10951-021-00695-6)
 

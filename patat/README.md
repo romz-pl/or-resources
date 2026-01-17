@@ -5,7 +5,6 @@ The International Series of Conferences on the Practice and Theory of Automated 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 
 ## Proceedings
-
 + The 15th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2026, postponed)](https://patatconference.org/patat2026/)
 + The 14th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2024, postponed)](https://patatconference.org/patat2024/)
 + The 13th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2022, postponed)](https://patatconference.org/patat2022/)
@@ -18,6 +17,10 @@ The International Series of Conferences on the Practice and Theory of Automated 
 + The 7th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2008)](https://patatconference.org/patat2008/)
 + The 6th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2006)](https://patatconference.org/patat2006/)
 + The 5th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2004)](https://patatconference.org/patat2004/)
++ The 4th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2002)](https://patatconference.org/patat2002/)
++ The 3th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2000)](https://patatconference.org/patat2000/)
++ The 2th Conference on the Practice and Theory of Automated Timetabling [(PATAT 1997)](https://patatconference.org/patat1997/)
++ The 1th Conference on the Practice and Theory of Automated Timetabling [(PATAT 1995)](https://patatconference.org/patat1995/)
 
 
 ## Integrated Healthcare Timetabling Competition (IHTC 2024) (2024-2025)

@@ -163,3 +163,6 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ### 2004
 + A Multineighbourhood Local Search Solver for the Timetabling Competition TTComp 2002, [Proceedings of the 5th Conference on the Practice and Theory of Automated Timetabling (PATAT 2004)](https://patatconference.org/patat2004/proceedings/475.pdf)
 
+
+### 2003
++ A Comparison of the Performance of Different Metaheuristics on the Timetabling Problem, [PATAT 2002, LNCS 2740](https://iridia.ulb.ac.be/mbiro/paperi/RosSamBir-etal2003patat.pdf)

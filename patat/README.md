@@ -144,9 +144,9 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 ## The Second International Timetabling Competition (ITC 2007)
 **University Course Timetabling**, [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/):
-+ Examination Timetabling (Track 1);
-+ Post Enrolment Course Timetabling (Track 2);
-+ Curriculum-based Course Timetabling (Track 3);
++ Examination Timetabling (Track 1), [Technical Report](https://www.researchgate.net/publication/229031370_The_Second_International_Timetabling_Competition_Examination_Timetabling_Track);
++ Post Enrolment Course Timetabling (Track 2), [Technical Report](https://scispace.com/pdf/post-enrolment-based-course-timetabling-a-description-ofthe-1gkuu8hrbe.pdf);
++ Curriculum-based Course Timetabling (Track 3), [Technical Report](https://www.eeecs.qub.ac.uk/itc2007/curriculmcourse/report/curriculumtechreport.pdf).
 
 ### 2019
 + Metaheuristic Approaches for Solving University Timetabling Problems: A Review and Case Studies from Middle Eastern Universities, [Information Systems and Technologies to Support Learning](https://doi.org/10.1007/978-3-030-03577-8_2)

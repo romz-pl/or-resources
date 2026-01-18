@@ -28,7 +28,8 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 
 ## Software
-+ [UniTime.org](https://www.unitime.org): Comprehensive University Timetabling System 
++ [EventMap](https://www.eventmapsolutions.com/): Optimising planning, scheduling and resource management
++ [UniTime.org](https://www.unitime.org): Comprehensive University Timetabling System
 
 
 

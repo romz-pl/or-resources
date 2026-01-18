@@ -4,7 +4,10 @@ The International Series of Conferences on the Practice and Theory of Automated 
 
 [PATAT](https://www.patatconference.org/index.html) is the EURO Working Group on Automated Timetabling, formed to discuss, promote, and perform research into automated timetabling problems and methods.
 
-## Conferences
+## Conferences and their proceedings
+
+The proceedings for each conference are available on the website.
+
 + The 15th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2026)](https://patatconference.org/patat2026/)
 + The 14th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2024)](https://patatconference.org/patat2024/)
 + The 13th Conference on the Practice and Theory of Automated Timetabling [(PATAT 2022)](https://patatconference.org/patat2022/)

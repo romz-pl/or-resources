@@ -145,7 +145,7 @@ The International Series of Conferences on the Practice and Theory of Automated 
 ## The Second International Timetabling Competition (ITC 2007)
 **University Course Timetabling**, [ITC 2007 homepage](https://www.eeecs.qub.ac.uk/itc2007/):
 + Examination Timetabling (Track 1);
-+ Post Enrolment Based Course Timetabling (Track 2);
++ Post Enrolment Course Timetabling (Track 2);
 + Curriculum-based Course Timetabling (Track 3);
 
 ### 2019

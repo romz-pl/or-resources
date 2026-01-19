@@ -121,7 +121,13 @@ The proceedings for each conference are available on the website.
 
 
 ## The Third International Timetabling Competition (ITC 2011)
-**High School Timetabling**, [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
++ **High School Timetabling**, [ITC 2011 homepage](https://www.utwente.nl/en/eemcs/dmmp/hstt/itc2011/)
++ High School Timetable Data Format Specification: [Documentation](https://www.utwente.nl/en/eemcs/dmmp/hstt/documentation/)
++ High School Timetable Data Format Specification: [XHSTT format](http://jeffreykingston.id.au/cgi-bin/hseval.cgi?op=spec)
++ High School Timetable Data Format Specification: [Glossary](http://jeffreykingston.id.au/cgi-bin/hseval.cgi?op=spec&part=glossary)
++ High School Timetable Data Format Specification: [Constraints](http://jeffreykingston.id.au/cgi-bin/hseval.cgi?op=spec&part=constraints)
++ High School Timetable Data Format Specification: [Tutorial](https://www.utwente.nl/en/eemcs/dmmp/hstt/tutorial/)
+
 
 ### 2021
 + A survey of the state-of-the-art of optimisation methodologies in school timetabling problems, [Expert Systems With Applications](https://doi.org/10.1016/j.eswa.2020.113943)

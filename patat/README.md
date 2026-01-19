@@ -146,6 +146,8 @@ The proceedings for each conference are available on the website.
 + Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)
 + A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
 
+### 2012
++ An XML format for benchmarks in High School Timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-010-0699-9)
 
 
 

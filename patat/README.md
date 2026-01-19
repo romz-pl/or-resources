@@ -137,6 +137,7 @@ The proceedings for each conference are available on the website.
 
 ### 2016
 + A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2016.07.002)
++ Elective course student sectioning at Danish high schools, [Annals of Operations Research](https://doi.org/10.1007/s10479-014-1593-7)
 
 ### 2014
 + A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research](http://dx.doi.org/10.1016/j.cor.2014.06.023)

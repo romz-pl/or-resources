@@ -141,6 +141,10 @@ The proceedings for each conference are available on the website.
 + Integer programming for the generalized high school timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0405-x)
 + A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research](http://dx.doi.org/10.1016/j.cor.2014.06.023)
 
+### 2013
++ Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)
++ A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
+
 
 
 
@@ -176,10 +180,6 @@ The proceedings for each conference are available on the website.
 ### 2014
 + A review of hyper-heuristics for educational timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-014-1688-1)
 + A survey of school timetabling research, [Annals of Operations Research](https://doi.org/10.1007/s10479-013-1321-8)
-
-### 2013
-+ Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)
-+ A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
 
 ### 2009
 + Setting the Research Agenda in Automated Timetabling: The Second International Timetabling Competition, [INFORMS Journal on Computing](https://doi.org/10.1287/ijoc.1090.0320)

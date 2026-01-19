@@ -34,6 +34,7 @@ The proceedings for each conference are available on the website.
 
 ## Software
 + [EventMap](https://www.eventmapsolutions.com/): Optimising planning, scheduling and resource management
++ [KHE](http://jeffreykingston.id.au/khe/) is an open source ANSI C software library, written by Jeff Kingston
 + [UniTime.org](https://www.unitime.org): Comprehensive University Timetabling System
 
 

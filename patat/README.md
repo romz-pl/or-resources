@@ -148,6 +148,7 @@ The proceedings for each conference are available on the website.
 
 ### 2012
 + An XML format for benchmarks in High School Timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-010-0699-9)
++ The Third International Timetabling Competition, [Practice and Theory of Automated Timetabling (PATAT 2012)](https://patatconference.org/patat2012/proceedings/5_1.pdf)
 
 
 

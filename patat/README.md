@@ -145,8 +145,9 @@ The proceedings for each conference are available on the website.
 + Integer programming for the generalized high school timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0405-x)
 
 ### 2013
-+ Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)
 + A Comprehensive Study of Educational Timetabling - a Survey, [DTU Management Engineering Report No. 8.2013](https://backend.orbit.dtu.dk/ws/portalfiles/portal/60366101/A_Comprehensive_Study.pdf)
++ Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)
++ Comparing Solution Approaches for a Complete Model of High School Timetabling, [DTU Management Engineering Report No. 5.2013](https://scispace.com/pdf/comparing-solution-approaches-for-a-complete-model-of-high-3dpil5sjyv.pdf)
 
 ### 2012
 + An XML format for benchmarks in High School Timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-010-0699-9)

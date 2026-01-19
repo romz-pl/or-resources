@@ -186,6 +186,9 @@ The proceedings for each conference are available on the website.
 + A review of hyper-heuristics for educational timetabling, [Annals of Operations Research](https://doi.org/10.1007/s10479-014-1688-1)
 + A survey of school timetabling research, [Annals of Operations Research](https://doi.org/10.1007/s10479-013-1321-8)
 
+### 2010
++ A mixed-integer mathematical modeling approach to exam timetabling, [Home Computational Management Science](https://doi.org/10.1007/s10287-007-0066-8)
+
 ### 2009
 + Setting the Research Agenda in Automated Timetabling: The Second International Timetabling Competition, [INFORMS Journal on Computing](https://doi.org/10.1287/ijoc.1090.0320)
 

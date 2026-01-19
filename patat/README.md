@@ -82,7 +82,8 @@ The proceedings for each conference are available on the website.
 
 
 ## The Fourth International Timetabling Competition (ITC 2019) (2018-2020)
-**University Course Timetabling**, [ITC 2019 homepage](https://www.itc2019.org/home)
++ **University Course Timetabling**, [ITC 2019 homepage](https://www.itc2019.org/home)
++ University course timetabling and International Timetabling Competition 2019, [Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2018)](https://www.itc2019.org/papers/itc2019-patat2018.pdf)
 
 ### 2025
 + Real-world university course timetabling at the International Timetabling Competition 2019, [Journal of Scheduling](https://doi.org/10.1007/s10951-023-00801-w)

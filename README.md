@@ -56,6 +56,9 @@
 + [Timetabling Competitions](https://www.patatconference.org/communityService.html)
 + [Articles and reports](./patat/README.md)
 
+## MISTA: Multidisciplinary International Scheduling Conference: Theory & Application
++ [MISTA, homepage](https://mistaconference.net/)
+
 
 <!--
 ## Reports

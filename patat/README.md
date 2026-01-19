@@ -29,7 +29,7 @@ The proceedings for each conference are available on the website.
 ## Benchmark Data Sets
 + Benchmark Data Sets in Exam Timetabling, [The University of Nottingham](https://people.cs.nott.ac.uk/pszrq/data.htm)
 + High School Timetabling Competition Datasets (ITC 2011) [University of Twente](https://www.utwente.nl/en/eemcs/dmmp/hstt/datasets/)
-+ High School Timetabling Project: [Archives](https://www.utwente.nl/en/eemcs/dmmp/hstt/archives/)
++ High School Timetabling Project: [Archives, XHSTT 2010-2014](https://www.utwente.nl/en/eemcs/dmmp/hstt/archives/)
 + University Course Timetabling Benchmark Datasets, [Tomás Müller](https://www.unitime.org/uct_datasets.php)
 
 

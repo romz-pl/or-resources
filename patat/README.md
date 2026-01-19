@@ -139,8 +139,9 @@ The proceedings for each conference are available on the website.
 + A Column Generation Approach to High School Timetabling Modeled as a Multicommodity Flow Problem, [European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2016.07.002)
 
 ### 2014
-+ Integer programming for the generalized high school timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0405-x)
 + A ﬁx-and-optimize heuristic for the high school timetabling problem, [Computers & Operations Research](http://dx.doi.org/10.1016/j.cor.2014.06.023)
++ A Two-Stage Decomposition of High School Timetabling applied to cases in Denmark, [Computers & Operations Research](https://doi.org/10.1016/j.cor.2013.08.025)
++ Integer programming for the generalized high school timetabling problem, [Journal of Scheduling](https://doi.org/10.1007/s10951-014-0405-x)
 
 ### 2013
 + Educational Timetabling (book chapter), [Automated Scheduling and Planning: From Theory to Practice](https://doi.org/10.1007/978-3-642-39304-4_4)

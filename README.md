@@ -41,6 +41,7 @@
 + [MINLP (CMU-IBM Cyber-Infrastructure for MINLP collaborative site)](https://www.minlp.org/)
 + [MINLPLib (Mixed-Integer Nonlinear Programming Library)](https://www.minlplib.org/)
 + [MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/)
++ [Operations Research at University of Bologna](https://site.unibo.it/operations-research/en/research/library-of-codes-and-instances-1)
 + [OR-Library](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
 
 

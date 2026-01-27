@@ -43,6 +43,7 @@
 + [OR-Library](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
 
 ## Competition and Challenges
++ [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
 + [PACE Challenge: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)
 + [ROADEF Challenge](https://roadef.org/challenge/)

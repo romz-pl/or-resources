@@ -34,14 +34,6 @@
 + [SCIP articles](./software/scip/README.md)
 
 
-## Benchmarks
-+ Decision tree for optimization software, [Hans Mittelmann](http://plato.asu.edu/guide.html)
-
-
-## Presentations
-+ From Infeasibility to Feasibility: Improvement Heuristics to Find First Feasibles for MIPs, [2025](https://www.mixedinteger.org/2025/slides/2025-06-04%20-%20Talks%20-%20Tobias%20Achterberg.pdf)
-+ Gurobi Machine Learning: Using Trained Machine Learning Predictors in Gurobi, [2023](https://app.icerm.brown.edu/assets/404/5055/5055_3801_Achterberg_042720230900_Slides.pdf)
-+ Progress in Mathematical Programming Solvers from 2001 to 2020 and back to the 90s, [2023](https://scipopt.org/20years/slides/koch.pdf)
 
 
 ## Problems and Models Collections
@@ -49,6 +41,12 @@
 + [MINLPLib (Mixed-Integer Nonlinear Programming Library)](https://www.minlplib.org/)
 + [MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/)
 + [OR-Library](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
+
+## Competition and Challenges
++ [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
++ [PACE Challenge: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)
++ [ROADEF Challenge](https://roadef.org/challenge/)
++ [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
 
 
 ## PATAT: Practice and Theory of Automated Timetabling
@@ -58,6 +56,16 @@
 
 ## MISTA: Multidisciplinary International Scheduling Conference: Theory & Application
 + [MISTA, homepage](https://mistaconference.net/)
+
+## Benchmarks
++ Decision tree for optimization software, [Hans Mittelmann](http://plato.asu.edu/guide.html)
+
+
+## Presentations
++ From Infeasibility to Feasibility: Improvement Heuristics to Find First Feasibles for MIPs, [2025](https://www.mixedinteger.org/2025/slides/2025-06-04%20-%20Talks%20-%20Tobias%20Achterberg.pdf)
++ Gurobi Machine Learning: Using Trained Machine Learning Predictors in Gurobi, [2023](https://app.icerm.brown.edu/assets/404/5055/5055_3801_Achterberg_042720230900_Slides.pdf)
++ Progress in Mathematical Programming Solvers from 2001 to 2020 and back to the 90s, [2023](https://scipopt.org/20years/slides/koch.pdf)
+
 
 
 <!--

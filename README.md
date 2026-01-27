@@ -43,6 +43,8 @@
 + [OR-Library](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
 
 ## Competition and Challenges
++ [The Collection of Optimization Challenges: Updated from 2017–2022, no longer maintained](https://www.hsu-hh.de/logistik/research/challenges)
++
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)

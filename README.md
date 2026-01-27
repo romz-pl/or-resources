@@ -44,9 +44,10 @@
 
 ## Competition and Challenges
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
++ [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
-+ [PACE Challenge: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)
-+ [ROADEF Challenge](https://roadef.org/challenge/)
++ [PACE Challenges: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)
++ [ROADEF Challenges](https://roadef.org/challenge/)
 + [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
 
 

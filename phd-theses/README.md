@@ -195,6 +195,7 @@ To find PhD theses from a wide range of subjects, I recommend [**ProQuest Disser
 ## 2003
 + Maximum independent set and related problems, with applications, [Sergiy Butenko](https://ufdcimages.uflib.ufl.edu/UF/E0/00/10/11/00001/butenko_s.pdf)
 + Planning for robust airline operations: Optimizing aircraft routings and flight departure times to achieve minimum passenger disruptions, [Shan Lan](https://dspace.mit.edu/handle/1721.1/17568)
++ Problems, Models and Algorithms in One- and Two-Dimensional Cutting, [Gleb Belov](https://d-nb.info/970782489/34)
 
 
 ## 2002

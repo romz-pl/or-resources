@@ -42,6 +42,8 @@
 + [MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/)
 + [OR-Library](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
 
+
+
 ## Competition and Challenges
 + [The Collection of Optimization Challenges: Updated from 2017–2022, no longer maintained](https://www.hsu-hh.de/logistik/research/challenges)
 +
@@ -56,13 +58,12 @@
 + [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
 
 
-## PATAT: Practice and Theory of Automated Timetabling
-+ [The International Series of Conferences on the Practice and Theory of Automated Timetabling](https://www.patatconference.org/index.html)
-+ [Timetabling Competitions](https://www.patatconference.org/communityService.html)
-+ [Articles and reports](./patat/README.md)
 
-## MISTA: Multidisciplinary International Scheduling Conference: Theory & Application
-+ [MISTA, homepage](https://mistaconference.net/)
+## International Conferences
++ [The International Series of Conferences on the Practice and Theory of Automated Timetabling, PATAT](https://www.patatconference.org/index.html)
++ [MISTA: Multidisciplinary International Scheduling Conference: Theory & Application](https://mistaconference.net/)
+
+
 
 ## Benchmarks
 + Decision tree for optimization software, [Hans Mittelmann](http://plato.asu.edu/guide.html)

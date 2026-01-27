@@ -46,6 +46,7 @@
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
++ [MiniZinc Challenge](https://www.minizinc.org/challenge/)
 + [Model Counting Competition](https://mccompetition.org/)
 + [Optil.io](https://optil.io/optilion/home)
 + [PACE Challenges: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)

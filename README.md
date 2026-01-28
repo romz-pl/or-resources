@@ -53,6 +53,7 @@
 +
 + [AIcrowd Challenges](https://www.aicrowd.com/challenges/)
 + [Bright Optimizer: International Student Competition in Structural Optimization](https://www.brightoptimizer.com/)
++ [Computational Geometry: Solving Hard Optimization Problems, Geometric Optimization Challenges](https://cgshop.ibr.cs.tu-bs.de/)
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)

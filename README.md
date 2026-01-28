@@ -74,6 +74,7 @@
 
 ## International Conferences
 + [International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/)
++ [International Conference on Logic Programming](https://www.iclp24.utdallas.edu/)
 + [MISTA: Multidisciplinary International Scheduling Conference: Theory & Application](https://mistaconference.net/)
 + [The International Conferences on Theory and Applications of Satisfiability Testing (SAT)](https://satisfiability.org/)
 + [The International Series of Conferences on the Practice and Theory of Automated Timetabling, PATAT](https://www.patatconference.org/index.html)

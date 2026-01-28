@@ -68,6 +68,7 @@
 + [PACE Challenges: Parameterized Algorithms and Computational Experiments](https://pacechallenge.org/)
 + [Pseudo-Boolean Competition 2025](https://www.cril.univ-artois.fr/PB25/)
 + [ROADEF Challenges](https://roadef.org/challenge/)
++ [Syngenta Crop Challenges](https://www.ideaconnection.com/syngenta-crop-challenge/challenge.php)
 + [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
 + [XCSP Competitions](https://www.xcsp.org/competitions/)
 

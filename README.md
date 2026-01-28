@@ -18,6 +18,7 @@
 
 
 ## Society / Organizations
++ [Association for Constraint Programming](https://www.a4cp.org/events/cp-conference-series)
 + [COIN-OR: Computational Infrastructure for Operations Research](https://www.coin-or.org/)
 + [EURO: Association of European Operational Research Societies](https://www.euro-online.org/)
 + [French Operational Research (OR) and Decision Support Society (ROADEF)](https://roadef.org/)

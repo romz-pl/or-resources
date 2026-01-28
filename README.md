@@ -55,7 +55,7 @@
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
 + [International SAT Competition](https://satcompetition.github.io/)
-+ [kaggle Collection of Competitions](https://www.kaggle.com/competitions)
++ [Kaggle Collection of Competitions](https://www.kaggle.com/competitions)
 + [MiniZinc Challenge](https://www.minizinc.org/challenge/)
 + [Model Counting Competition](https://mccompetition.org/)
 + [Optil.io](https://optil.io/optilion/home)

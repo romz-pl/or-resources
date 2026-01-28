@@ -60,6 +60,7 @@
 + [Pseudo-Boolean Competition 2025](https://www.cril.univ-artois.fr/PB25/)
 + [ROADEF Challenges](https://roadef.org/challenge/)
 + [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
++ [XCSP Competitions](https://www.xcsp.org/competitions/)
 
 
 

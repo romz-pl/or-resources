@@ -56,7 +56,9 @@
 + [Computational Geometry: Solving Hard Optimization Problems, Geometric Optimization Challenges](https://cgshop.ibr.cs.tu-bs.de/)
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
++ [IBM Research: Ponder This](https://research.ibm.com/haifa/ponderthis/index.shtml)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
++ [International Conference on Automated Planning and Scheduling Competitions](https://www.icaps-conference.org/competitions/)
 + [International SAT Competition](https://satcompetition.github.io/)
 + [Kaggle Collection of Competitions](https://www.kaggle.com/competitions)
 + [MiniZinc Challenge](https://www.minizinc.org/challenge/)
@@ -71,8 +73,9 @@
 
 
 ## International Conferences
-+ [The International Series of Conferences on the Practice and Theory of Automated Timetabling, PATAT](https://www.patatconference.org/index.html)
++ [International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/)
 + [MISTA: Multidisciplinary International Scheduling Conference: Theory & Application](https://mistaconference.net/)
++ [The International Series of Conferences on the Practice and Theory of Automated Timetabling, PATAT](https://www.patatconference.org/index.html)
 
 
 

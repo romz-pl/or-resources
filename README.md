@@ -25,6 +25,7 @@
 + [INFORMS: Institute for Operations Research and the Management Sciences](https://www.informs.org/)
 + [Mathematical Optimization Society](https://www.mathopt.org/)
 + [Operational Research Society](https://www.theorsociety.com/)
++ [Optimisation and Logistics at the University of Adelaide](https://cs.adelaide.edu.au/~optlog/index.php)
 + [Optimization Online](https://optimization-online.org/)
 + [SIAM: Society for Industrial and Applied Mathematics](https://www.siam.org/)
 

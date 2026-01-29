@@ -57,6 +57,7 @@
 + [COMAP's Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM)](https://www.contest.comap.com/undergraduate/contests/)
 + [Computational Geometry: Solving Hard Optimization Problems, Geometric Optimization Challenges](https://cgshop.ibr.cs.tu-bs.de/)
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
++ [Edinburgh Undergraduate Operational Research Challenge](https://maths.ed.ac.uk/events/operational-research-challenge)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [Franz Edelman Award for Achievement in Advanced Analytics, Operations Research, and Management Science](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
 + [IBM Research: Ponder This](https://research.ibm.com/haifa/ponderthis/index.shtml)

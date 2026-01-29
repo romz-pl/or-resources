@@ -60,6 +60,7 @@
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
 + [Franz Edelman Award for Achievement in Advanced Analytics, Operations Research, and Management Science](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
 + [IBM Research: Ponder This](https://research.ibm.com/haifa/ponderthis/index.shtml)
++ [INFORMS Prizes & Awards](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
 + [International Conference on Automated Planning and Scheduling Competitions](https://www.icaps-conference.org/competitions/)
 + [International SAT Competition](https://satcompetition.github.io/)

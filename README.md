@@ -58,6 +58,7 @@
 + [Computational Geometry: Solving Hard Optimization Problems, Geometric Optimization Challenges](https://cgshop.ibr.cs.tu-bs.de/)
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
++ [Franz Edelman Award for Achievement in Advanced Analytics, Operations Research, and Management Science](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
 + [IBM Research: Ponder This](https://research.ibm.com/haifa/ponderthis/index.shtml)
 + [International Competition on Graph Counting Algorithms 2024](https://afsa.jp/icgca2024/)
 + [International Conference on Automated Planning and Scheduling Competitions](https://www.icaps-conference.org/competitions/)

@@ -70,6 +70,7 @@
 + [ROADEF Challenges](https://roadef.org/challenge/)
 + [Syngenta Crop Challenges](https://www.ideaconnection.com/syngenta-crop-challenge/challenge.php)
 + [Timetabling Competitions: PATAT Community Support](https://www.patatconference.org/communityService.html)
++ [Undergraduate Operations Research Prize Competition](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize)
 + [XCSP Competitions](https://www.xcsp.org/competitions/)
 
 

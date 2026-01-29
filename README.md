@@ -63,6 +63,7 @@
 + [International Conference on Automated Planning and Scheduling Competitions](https://www.icaps-conference.org/competitions/)
 + [International SAT Competition](https://satcompetition.github.io/)
 + [Kaggle Collection of Competitions](https://www.kaggle.com/competitions)
++ [MathWorks Math Modeling challenge (M3 Challenge)](https://m3challenge.siam.org/)
 + [MiniZinc Challenge](https://www.minizinc.org/challenge/)
 + [Model Counting Competition](https://mccompetition.org/)
 + [Optil.io](https://optil.io/optilion/home)

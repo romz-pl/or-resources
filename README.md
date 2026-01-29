@@ -59,6 +59,7 @@
 + [DIMACS Implementation Challenges](http://dimacs.rutgers.edu/index.php/programs/challenge/)
 + [Edinburgh Undergraduate Operational Research Challenge](https://maths.ed.ac.uk/events/operational-research-challenge)
 + [EURO Meets NeurIPS 2022 Vehicle Routing Competition](https://euro-neurips-vrp-2022.challenges.ortec.com/)
++ [EURO Prizes and Awards](https://www.euro-online.org/web/pages/104/prizes-and-awards)
 + [Franz Edelman Award for Achievement in Advanced Analytics, Operations Research, and Management Science](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Franz-Edelman-Award)
 + [IBM Research: Ponder This](https://research.ibm.com/haifa/ponderthis/index.shtml)
 + [INFORMS Prizes & Awards](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes)
